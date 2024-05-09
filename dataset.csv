@@ -1,0 +1,1001 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3
+1,Providence City College,3.65,Bachelor's,Providence,F,0,0,0,0,ML Engineer,01/12,10/13,Research Assistant,03/13,05/13,N/A,07/12,04/13
+2,Providence School,3.08,Bachelor's,Los Angeles,F,0,0,0,3,Lawyer,11/17,07/16,Research Assistant,07/10,11/11,Junior SWE,11/19,06/13
+3,Providence School,2.77,Master's,Los Angeles,F,0,0,0,1,Data Scientist,07/16,02/16,ML Engineer,01/18,06/13,N/A,07/14,03/14
+4,State Providence College,2.9,Master's,Boston,F,1,0,0,1,Research Assistant,10/10,08/16,Research Assistant,08/19,10/17,ML Engineer,07/10,08/19
+5,Providence State University,3.5,Bachelor's,Boston,F,0,0,0,0,Lawyer,07/18,02/12,Junior SWE,04/16,08/14,Data Scientist,04/11,03/15
+6,Providence State University,2.8,Bachelor's,New York,F,0,1,0,1,Senior SWE,07/19,09/11,Lawyer,06/11,11/19,Senior SWE,02/19,10/13
+7,Providence Tech Institute,2.63,Master's,Los Angeles,M,0,0,0,2,Data Scientist,09/18,12/14,Data Scientist,01/18,01/18,Data Scientist,12/13,11/11
+8,Providence University,3.43,Master's,Providence,M,0,0,0,3,Junior SWE,09/18,01/15,Lawyer,03/19,08/16,ML Engineer,10/14,07/11
+9,Providence State University,3.47,Bachelor's,New York,M,0,0,0,0,ML Engineer,04/16,10/10,Senior SWE,11/18,10/18,Data Scientist,08/19,09/14
+10,Providence School,3.17,Master's,Chicago,F,0,0,0,3,Senior SWE,06/16,03/16,Research Assistant,09/13,04/12,ML Engineer,05/19,09/19
+11,Providence City College,3.26,Master's,Boston,N/A,0,1,0,0,ML Engineer,02/15,11/13,ML Engineer,04/10,08/15,Data Scientist,07/17,11/14
+12,State Providence College,3.75,Master's,New York,M,0,0,0,1,Senior SWE,06/17,12/16,Senior SWE,08/18,03/17,Data Scientist,02/13,08/16
+13,Providence School,3.01,Bachelor's,New York,M,0,1,1,1,Research Assistant,07/10,02/18,ML Engineer,02/19,11/19,Lawyer,04/19,01/12
+14,Providence School,3.8,PhD,Miami,F,0,1,0,3,Research Assistant,03/10,03/13,Data Scientist,06/17,10/15,Senior SWE,01/11,09/16
+15,Providence School,3.81,Bachelor's,Los Angeles,F,0,0,0,0,Junior SWE,02/12,08/11,Lawyer,11/12,05/11,Research Assistant,02/17,05/16
+16,Providence University,3.27,Bachelor's,Providence,M,0,0,0,3,Junior SWE,06/14,06/19,Data Scientist,10/18,06/14,N/A,06/14,01/16
+17,Providence City College,2.53,Bachelor's,New York,F,0,0,0,0,Junior SWE,06/15,05/16,Research Assistant,07/19,01/18,Research Assistant,06/14,08/17
+18,Providence University,3.88,PhD,Miami,M,0,0,0,0,Senior SWE,08/12,03/17,Senior SWE,12/14,11/15,Junior SWE,01/13,07/12
+19,State Providence College,2.71,Bachelor's,Los Angeles,F,0,1,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+20,Providence University,3.29,PhD,Providence,F,0,0,0,1,Lawyer,01/11,04/12,ML Engineer,11/11,09/17,N/A,11/11,08/19
+21,Providence School,3.51,Bachelor's,Boston,M,0,0,0,0,ML Engineer,12/18,10/18,Junior SWE,09/14,07/15,N/A,11/16,11/15
+22,Providence University,2.64,Bachelor's,Miami,F,0,0,0,3,Lawyer,06/15,03/17,Data Scientist,08/17,07/11,ML Engineer,04/14,11/15
+23,State Providence College,3.63,PhD,Providence,M,0,0,0,0,Senior SWE,03/16,08/18,ML Engineer,03/18,12/19,ML Engineer,06/10,02/19
+24,Providence University,3.42,Bachelor's,Providence,N/A,0,0,N/A,1,Senior SWE,01/13,04/10,Senior SWE,02/17,11/13,Junior SWE,09/19,04/18
+25,Providence State University,3.51,Bachelor's,Providence,M,0,0,0,0,Data Scientist,04/18,02/18,Senior SWE,04/18,06/12,Lawyer,12/19,01/16
+26,State Providence College,2.73,Bachelor's,Los Angeles,F,0,0,0,0,Research Assistant,03/19,04/19,Lawyer,08/10,09/18,Lawyer,12/10,07/11
+27,Providence School,2.91,Bachelor's,Miami,M,0,0,0,4,Lawyer,10/16,10/12,Senior SWE,10/15,02/13,Senior SWE,11/10,04/16
+28,Providence State University,2.95,Master's,New York,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29,Providence School,2.73,Master's,Los Angeles,N/A,0,0,0,0,Research Assistant,03/11,02/12,Lawyer,06/15,08/12,N/A,12/10,03/12
+30,Providence Tech Institute,3.35,PhD,Miami,M,1,0,0,3,Research Assistant,03/17,11/10,Lawyer,04/16,09/15,N/A,12/15,10/12
+31,Providence City College,2.61,PhD,Chicago,M,0,0,0,0,Lawyer,06/16,06/12,Data Scientist,05/12,10/16,Lawyer,11/10,06/17
+32,State Providence College,2.88,Master's,Los Angeles,F,0,0,0,0,Junior SWE,11/14,06/11,Data Scientist,03/16,04/19,Lawyer,10/10,02/13
+33,Providence University,3.64,Bachelor's,Miami,F,0,0,0,0,Research Assistant,10/17,06/12,Senior SWE,10/19,02/14,ML Engineer,05/12,10/11
+34,Providence Tech Institute,2.86,Bachelor's,Boston,M,0,0,0,0,Research Assistant,01/16,06/11,Senior SWE,04/14,09/11,Senior SWE,07/16,01/17
+35,Providence School,2.79,Bachelor's,Providence,F,1,0,0,0,Senior SWE,07/19,10/14,ML Engineer,07/11,06/11,Senior SWE,01/19,11/15
+36,Providence Tech Institute,2.71,Bachelor's,Los Angeles,M,1,1,0,0,Research Assistant,12/19,03/16,Lawyer,01/19,03/14,Lawyer,02/18,02/13
+37,Providence School,3.43,PhD,Chicago,N/A,0,0,0,0,Junior SWE,02/18,06/15,Senior SWE,11/19,05/15,Research Assistant,05/15,11/15
+38,Providence Tech Institute,3.18,Master's,New York,F,0,0,0,0,Junior SWE,05/17,07/11,Lawyer,07/15,01/11,Lawyer,03/13,07/12
+39,Providence State University,2.83,Master's,New York,M,0,0,0,3,Research Assistant,11/13,09/11,Lawyer,01/14,08/18,Junior SWE,06/10,01/13
+40,Providence State University,2.81,Bachelor's,Miami,F,0,0,1,0,Research Assistant,10/13,05/11,Junior SWE,02/19,04/16,Lawyer,09/13,12/18
+41,State Providence College,3.98,Master's,Providence,M,0,0,0,2,Junior SWE,03/17,10/12,ML Engineer,01/17,09/18,N/A,04/14,06/16
+42,State Providence College,2.6,Bachelor's,Chicago,F,1,1,0,0,Lawyer,10/14,12/18,Junior SWE,02/12,06/17,Research Assistant,09/17,11/14
+43,Providence State University,3.62,Bachelor's,Boston,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+44,Providence Tech Institute,3.87,Bachelor's,Los Angeles,M,0,0,1,0,ML Engineer,10/15,07/16,ML Engineer,11/14,02/15,Research Assistant,10/12,06/17
+45,Providence City College,3.17,PhD,New York,M,0,1,N/A,2,ML Engineer,04/14,03/13,Junior SWE,09/17,12/16,ML Engineer,10/13,12/15
+46,State Providence College,3.22,Master's,Providence,M,0,0,0,0,Senior SWE,03/16,01/13,Research Assistant,02/11,07/16,Data Scientist,09/14,06/16
+47,State Providence College,3.78,Bachelor's,Miami,M,0,1,0,0,Junior SWE,09/13,12/16,Junior SWE,05/15,04/19,Research Assistant,04/19,07/16
+48,Providence State University,2.52,PhD,Chicago,N/A,0,0,0,0,Lawyer,08/19,04/10,Lawyer,02/14,10/14,Senior SWE,01/11,03/15
+49,Providence Tech Institute,2.78,Bachelor's,Boston,M,0,1,0,1,ML Engineer,04/16,05/11,Lawyer,11/16,10/14,ML Engineer,03/13,05/11
+50,State Providence College,3.57,Master's,Boston,M,0,1,0,2,Senior SWE,12/17,01/12,Junior SWE,12/12,01/10,Data Scientist,06/11,09/14
+51,Providence State University,3.27,PhD,Chicago,M,0,0,0,0,Lawyer,04/13,08/10,Data Scientist,06/10,02/19,Lawyer,02/11,06/11
+52,Providence Tech Institute,3.95,Bachelor's,Miami,M,0,0,0,0,Research Assistant,07/19,09/14,Research Assistant,08/19,05/16,Data Scientist,09/11,03/15
+53,Providence University,2.82,PhD,Boston,M,0,0,0,0,Senior SWE,12/10,10/19,Junior SWE,05/16,05/17,Data Scientist,08/12,12/13
+54,Providence University,3.83,PhD,Los Angeles,F,0,0,0,3,Senior SWE,09/16,09/18,ML Engineer,07/11,11/10,Lawyer,07/12,06/17
+55,Providence University,4.0,Bachelor's,Los Angeles,F,0,1,0,0,ML Engineer,05/14,03/12,Data Scientist,07/13,01/14,N/A,12/12,08/16
+56,Providence School,2.5,PhD,Providence,M,0,0,0,0,Lawyer,11/14,08/14,Data Scientist,08/15,03/12,N/A,02/19,02/13
+57,Providence City College,2.93,Master's,Chicago,F,0,0,0,1,ML Engineer,07/19,07/12,Research Assistant,02/14,06/19,Research Assistant,09/17,06/18
+58,Providence State University,3.97,PhD,New York,F,0,0,0,2,Research Assistant,03/12,12/15,Research Assistant,04/17,09/16,Research Assistant,12/11,05/10
+59,Providence State University,3.85,PhD,Providence,M,0,0,0,0,Data Scientist,10/13,01/12,Junior SWE,05/18,02/17,ML Engineer,05/12,09/14
+60,Providence Tech Institute,2.64,Master's,Los Angeles,M,0,0,0,0,Research Assistant,06/12,12/14,ML Engineer,09/18,08/14,Junior SWE,10/10,05/18
+61,Providence City College,2.89,Master's,Los Angeles,F,0,0,0,4,Senior SWE,01/16,01/16,ML Engineer,08/12,05/12,Research Assistant,04/18,10/16
+62,Providence School,3.44,Bachelor's,New York,F,1,0,1,0,Data Scientist,06/15,06/13,Research Assistant,04/14,10/19,Lawyer,07/15,07/14
+63,Providence University,2.87,Master's,Boston,M,1,0,0,0,Senior SWE,01/12,08/13,Senior SWE,10/11,03/19,Lawyer,04/17,04/13
+64,State Providence College,3.09,PhD,Providence,M,0,0,0,4,Research Assistant,08/13,11/18,Research Assistant,12/17,06/18,ML Engineer,11/14,12/17
+65,Providence School,2.88,Master's,New York,M,0,1,1,0,Junior SWE,10/11,01/10,Junior SWE,09/16,04/16,Senior SWE,05/18,07/16
+66,Providence State University,2.95,Bachelor's,Los Angeles,N/A,0,0,0,1,Junior SWE,09/16,04/18,Senior SWE,02/13,03/13,Research Assistant,10/11,06/17
+67,Providence University,3.01,PhD,New York,F,0,0,0,0,Data Scientist,03/15,10/17,ML Engineer,10/14,01/15,Lawyer,06/16,10/18
+68,Providence Tech Institute,3.29,PhD,Providence,M,0,0,0,3,Data Scientist,08/17,04/19,Junior SWE,06/16,08/13,Junior SWE,02/10,03/10
+69,State Providence College,3.67,PhD,Chicago,F,1,0,1,0,Junior SWE,04/19,05/19,Lawyer,09/19,12/18,Junior SWE,02/17,06/19
+70,Providence Tech Institute,3.33,PhD,New York,M,0,0,0,3,ML Engineer,04/18,06/14,Lawyer,05/16,09/18,Lawyer,12/11,05/15
+71,Providence City College,2.87,Bachelor's,Boston,M,0,0,0,0,Data Scientist,03/14,06/19,Senior SWE,03/17,09/19,Lawyer,06/11,09/16
+72,Providence University,3.48,PhD,Chicago,M,0,0,0,0,ML Engineer,06/18,04/19,Junior SWE,01/17,02/16,Lawyer,06/11,02/16
+73,Providence School,3.75,PhD,New York,N/A,0,0,0,1,Junior SWE,07/12,02/19,Data Scientist,03/12,01/19,Lawyer,05/14,03/11
+74,Providence University,3.47,Master's,New York,F,0,0,0,3,Research Assistant,12/10,07/14,Lawyer,06/10,08/12,Senior SWE,03/15,02/13
+75,Providence State University,3.7,Bachelor's,Boston,M,0,0,0,0,Junior SWE,12/10,02/11,Junior SWE,12/10,12/10,N/A,04/18,01/19
+76,Providence City College,3.17,Bachelor's,Boston,M,0,1,1,3,Junior SWE,08/11,09/14,Lawyer,01/14,06/15,Lawyer,08/19,03/10
+77,Providence School,3.89,Master's,Providence,M,1,1,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+78,Providence State University,3.42,Bachelor's,Boston,F,0,0,0,4,Data Scientist,05/16,12/13,Junior SWE,11/16,06/15,ML Engineer,05/18,12/18
+79,State Providence College,3.57,Master's,Miami,F,0,0,0,2,Research Assistant,02/19,02/19,Senior SWE,02/15,07/19,Senior SWE,07/14,05/11
+80,Providence School,2.67,Master's,Miami,M,0,0,0,1,Junior SWE,04/16,08/15,ML Engineer,12/10,07/11,Data Scientist,02/10,05/10
+81,Providence City College,3.44,Bachelor's,Los Angeles,F,0,0,0,0,Junior SWE,05/18,02/12,ML Engineer,05/18,08/18,Senior SWE,11/16,01/14
+82,State Providence College,2.54,PhD,Chicago,M,0,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+83,Providence Tech Institute,2.75,Master's,Providence,M,0,0,0,3,Research Assistant,09/19,04/15,Junior SWE,05/14,07/19,Data Scientist,06/18,09/13
+84,Providence School,3.55,PhD,New York,N/A,0,0,0,0,Junior SWE,01/18,10/14,Lawyer,11/10,12/12,Data Scientist,01/11,12/13
+85,Providence University,3.51,Master's,Los Angeles,N/A,0,0,0,1,Junior SWE,07/17,04/13,Junior SWE,04/16,02/19,Junior SWE,03/11,12/14
+86,Providence School,3.24,Master's,Los Angeles,N/A,0,0,0,3,ML Engineer,02/16,09/13,Junior SWE,01/14,10/15,ML Engineer,04/14,12/16
+87,Providence Tech Institute,3.49,Master's,New York,M,0,0,N/A,0,Senior SWE,05/16,12/12,ML Engineer,12/13,03/11,Research Assistant,06/17,09/16
+88,State Providence College,3.73,PhD,Providence,M,0,1,0,3,Senior SWE,08/18,11/13,Lawyer,06/19,06/10,Senior SWE,09/19,10/10
+89,Providence City College,3.75,Bachelor's,New York,F,0,0,0,0,Junior SWE,08/19,03/10,Data Scientist,10/15,10/19,Research Assistant,12/11,05/10
+90,Providence State University,3.83,Bachelor's,Providence,M,0,1,0,3,Senior SWE,06/19,10/14,Lawyer,06/17,07/13,Research Assistant,09/12,10/15
+91,Providence City College,3.84,Bachelor's,Providence,M,0,1,0,0,Data Scientist,02/13,12/16,ML Engineer,12/10,02/10,Senior SWE,07/15,07/17
+92,Providence City College,3.35,PhD,Boston,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+93,Providence University,3.03,Bachelor's,Chicago,M,0,1,0,0,Data Scientist,04/10,09/11,Junior SWE,05/17,09/14,Lawyer,04/13,11/11
+94,Providence City College,2.5,PhD,Providence,F,0,0,0,1,ML Engineer,11/10,11/10,Lawyer,09/18,04/13,Lawyer,05/18,11/17
+95,Providence City College,3.9,PhD,Chicago,M,0,0,0,0,Lawyer,12/14,07/17,Lawyer,11/14,05/16,N/A,09/10,05/11
+96,State Providence College,2.8,Master's,Boston,M,0,0,0,0,ML Engineer,08/15,10/17,Lawyer,04/14,02/17,Junior SWE,03/11,11/13
+97,Providence City College,3.75,PhD,New York,F,0,0,0,3,Senior SWE,11/17,07/14,Lawyer,04/10,01/11,Research Assistant,11/19,06/10
+98,Providence University,2.88,Master's,Los Angeles,M,0,0,0,2,Lawyer,11/17,02/11,Junior SWE,11/11,06/18,Senior SWE,05/17,06/18
+99,Providence University,2.98,Master's,Los Angeles,F,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+100,Providence City College,2.81,Master's,Chicago,F,1,0,0,0,Research Assistant,01/16,10/16,Junior SWE,05/15,06/16,ML Engineer,10/18,01/10
+101,Providence University,3.66,PhD,Miami,F,0,0,0,0,ML Engineer,01/15,10/15,ML Engineer,08/15,08/14,Lawyer,01/14,12/18
+102,State Providence College,3.15,PhD,New York,F,0,0,1,0,Data Scientist,09/15,08/13,Junior SWE,09/16,06/13,Data Scientist,03/13,01/13
+103,Providence City College,3.94,PhD,Boston,F,0,0,0,1,Research Assistant,07/13,05/13,Data Scientist,09/10,06/14,Junior SWE,04/13,12/10
+104,State Providence College,3.71,Master's,Chicago,F,0,0,1,4,Senior SWE,04/17,12/17,ML Engineer,06/11,02/11,N/A,07/12,05/10
+105,Providence City College,3.35,Bachelor's,New York,F,0,0,0,0,Data Scientist,07/15,01/18,Research Assistant,05/11,09/16,Research Assistant,05/19,07/15
+106,Providence University,3.67,Master's,Chicago,N/A,0,1,0,3,Senior SWE,07/13,04/15,Research Assistant,09/16,10/13,Senior SWE,05/11,07/18
+107,State Providence College,3.76,Master's,Chicago,F,0,0,0,3,ML Engineer,12/12,08/19,Junior SWE,07/11,12/16,Junior SWE,06/17,03/10
+108,Providence Tech Institute,3.88,Bachelor's,New York,F,0,0,0,0,Junior SWE,04/18,11/19,Lawyer,08/18,03/10,Research Assistant,01/19,04/10
+109,Providence School,2.62,PhD,Chicago,M,0,0,0,0,ML Engineer,11/10,04/16,Senior SWE,09/11,10/18,Data Scientist,12/19,05/10
+110,Providence University,3.7,Master's,Chicago,M,0,0,0,3,Research Assistant,05/10,08/15,Data Scientist,02/18,09/14,Junior SWE,02/13,10/18
+111,Providence School,2.78,Bachelor's,New York,M,0,1,0,3,Senior SWE,06/15,02/14,Research Assistant,11/17,03/12,N/A,12/13,11/11
+112,Providence University,3.87,Bachelor's,Miami,M,0,1,0,1,Data Scientist,06/18,06/14,Research Assistant,08/17,09/15,N/A,11/17,12/12
+113,Providence Tech Institute,2.78,Bachelor's,Boston,M,0,0,0,0,Senior SWE,06/14,04/18,ML Engineer,02/17,05/14,Lawyer,11/13,08/18
+114,Providence City College,2.76,PhD,Miami,F,0,1,1,0,Data Scientist,01/11,01/14,Research Assistant,12/19,03/12,Data Scientist,09/13,09/10
+115,Providence State University,3.24,PhD,Boston,M,0,0,1,0,Lawyer,12/10,11/18,Data Scientist,04/19,01/13,Data Scientist,03/11,12/18
+116,State Providence College,3.79,Bachelor's,Miami,F,1,0,0,0,ML Engineer,04/11,04/15,ML Engineer,08/19,12/19,ML Engineer,11/15,08/16
+117,Providence State University,2.63,Bachelor's,Miami,M,0,1,0,3,Senior SWE,02/13,03/16,ML Engineer,04/18,05/17,ML Engineer,09/13,11/17
+118,Providence Tech Institute,2.59,PhD,New York,F,0,0,0,0,Junior SWE,08/16,04/18,Lawyer,02/18,06/10,Lawyer,08/11,08/11
+119,Providence University,3.65,PhD,Los Angeles,M,0,1,0,0,Senior SWE,03/16,07/16,Data Scientist,09/19,06/15,Lawyer,04/15,08/12
+120,Providence State University,3.76,Master's,Boston,F,0,0,0,3,Research Assistant,01/16,04/17,Lawyer,03/16,05/18,N/A,02/16,05/12
+121,State Providence College,3.19,PhD,Boston,F,0,1,0,1,Junior SWE,12/11,07/14,Junior SWE,11/15,04/13,N/A,05/10,10/18
+122,Providence City College,3.47,PhD,New York,F,0,0,0,0,Junior SWE,03/18,09/12,Lawyer,11/14,07/16,Lawyer,02/19,06/19
+123,Providence School,2.69,PhD,New York,M,0,0,0,0,Senior SWE,06/18,08/17,Senior SWE,06/14,02/16,Junior SWE,08/16,12/13
+124,Providence School,3.39,PhD,New York,F,1,0,0,3,Senior SWE,12/11,04/13,Lawyer,02/17,02/17,ML Engineer,05/14,02/16
+125,Providence School,2.52,Master's,Miami,N/A,0,0,0,1,Senior SWE,08/19,04/10,Research Assistant,09/11,02/16,Data Scientist,01/19,05/19
+126,Providence City College,2.95,Master's,New York,M,1,1,0,0,Senior SWE,02/13,04/16,Data Scientist,07/13,03/14,Senior SWE,09/10,01/13
+127,State Providence College,2.53,Bachelor's,New York,F,1,0,0,3,Senior SWE,10/17,08/16,Data Scientist,03/13,12/12,Senior SWE,12/13,06/17
+128,Providence School,2.91,Bachelor's,Boston,F,0,0,0,0,ML Engineer,10/18,12/10,Lawyer,03/16,06/12,Junior SWE,07/12,10/15
+129,Providence School,2.53,Master's,Miami,F,0,0,0,1,Junior SWE,11/12,10/13,Data Scientist,11/15,02/17,Senior SWE,03/19,02/16
+130,Providence Tech Institute,3.91,PhD,Los Angeles,F,0,0,0,3,Research Assistant,09/11,01/17,Senior SWE,03/10,02/10,Junior SWE,11/18,06/11
+131,Providence City College,3.82,Bachelor's,Chicago,F,0,0,0,0,ML Engineer,10/19,02/12,Junior SWE,07/18,02/18,Lawyer,07/15,04/15
+132,Providence State University,2.81,Master's,Boston,M,0,0,0,0,Junior SWE,08/19,01/16,Junior SWE,11/13,04/12,N/A,07/13,01/15
+133,Providence Tech Institute,3.88,Master's,Boston,F,0,1,0,4,Lawyer,05/11,08/11,Data Scientist,04/18,08/15,Research Assistant,09/13,05/19
+134,Providence Tech Institute,3.84,Bachelor's,Providence,F,0,1,0,1,ML Engineer,08/19,06/19,Data Scientist,10/16,12/14,ML Engineer,01/10,03/11
+135,State Providence College,2.83,Bachelor's,Boston,N/A,0,1,0,0,ML Engineer,04/17,10/19,Junior SWE,11/15,03/14,Lawyer,06/19,09/11
+136,Providence Tech Institute,3.51,Bachelor's,Miami,M,0,0,0,0,Data Scientist,04/15,01/17,Senior SWE,06/12,05/19,Junior SWE,02/12,12/13
+137,Providence University,2.78,Bachelor's,New York,F,1,0,0,0,Junior SWE,03/12,06/13,Lawyer,07/19,09/11,N/A,03/12,12/10
+138,Providence University,3.52,Bachelor's,Miami,M,0,1,0,0,Senior SWE,10/17,09/15,Junior SWE,12/13,01/19,Data Scientist,05/12,02/11
+139,Providence City College,2.6,Bachelor's,Chicago,F,0,0,0,3,Research Assistant,05/16,08/19,Junior SWE,07/17,09/16,Data Scientist,10/13,10/12
+140,Providence City College,3.79,Master's,Miami,M,0,0,0,0,Research Assistant,07/15,01/15,Junior SWE,05/13,05/13,Lawyer,12/17,10/11
+141,Providence University,3.74,PhD,Providence,M,0,0,0,1,Data Scientist,04/12,11/10,Data Scientist,06/15,12/16,Senior SWE,06/19,01/12
+142,Providence School,2.76,Bachelor's,Boston,F,0,0,0,1,Junior SWE,05/14,09/15,Data Scientist,10/16,12/14,Research Assistant,08/17,09/12
+143,Providence Tech Institute,3.16,PhD,New York,F,1,1,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+144,Providence City College,2.88,Master's,Boston,F,0,0,0,0,ML Engineer,10/11,12/10,ML Engineer,04/15,08/13,Junior SWE,02/12,12/12
+145,Providence Tech Institute,2.68,Bachelor's,Chicago,M,0,0,0,3,Senior SWE,06/11,05/18,Junior SWE,06/12,12/17,Senior SWE,02/17,05/15
+146,Providence School,2.52,PhD,Boston,F,0,0,0,1,ML Engineer,10/12,02/18,Data Scientist,11/18,08/18,Junior SWE,04/17,10/15
+147,Providence City College,2.95,PhD,Boston,F,1,1,0,0,Research Assistant,10/10,04/15,Junior SWE,10/10,07/13,Lawyer,01/19,04/14
+148,Providence Tech Institute,3.91,Bachelor's,Chicago,F,0,1,0,0,Senior SWE,02/13,10/11,Lawyer,01/12,01/16,N/A,02/12,08/11
+149,Providence School,3.83,Master's,Providence,F,0,0,0,0,Research Assistant,01/17,03/11,Data Scientist,08/18,01/14,Senior SWE,11/15,10/15
+150,State Providence College,3.15,PhD,Miami,F,0,1,0,0,Junior SWE,10/14,12/17,Junior SWE,06/18,03/10,N/A,09/13,07/17
+151,Providence State University,2.93,Bachelor's,New York,M,0,0,0,0,Research Assistant,02/15,01/18,Data Scientist,06/13,01/18,Data Scientist,05/15,10/19
+152,State Providence College,2.96,Bachelor's,Boston,M,1,0,0,1,Data Scientist,09/12,03/18,Research Assistant,07/11,02/19,Research Assistant,04/13,11/10
+153,Providence School,3.56,PhD,Boston,F,0,0,0,3,Data Scientist,12/11,08/15,Senior SWE,05/16,08/19,Data Scientist,03/17,12/19
+154,Providence University,2.9,Bachelor's,Los Angeles,M,0,1,0,1,Lawyer,01/11,08/16,Senior SWE,09/19,08/13,ML Engineer,06/15,04/17
+155,Providence University,3.74,Bachelor's,Chicago,M,0,0,1,0,Senior SWE,03/13,12/19,Lawyer,08/19,03/13,Lawyer,06/13,01/19
+156,Providence University,3.04,PhD,Providence,F,0,1,0,0,ML Engineer,05/19,02/16,ML Engineer,01/13,10/19,Senior SWE,10/19,09/18
+157,Providence Tech Institute,2.6,PhD,Los Angeles,N/A,0,1,0,0,ML Engineer,11/18,01/19,Lawyer,01/12,04/15,ML Engineer,11/10,08/11
+158,Providence Tech Institute,2.68,Master's,Los Angeles,M,0,0,0,0,Research Assistant,03/17,07/13,Research Assistant,09/15,08/19,N/A,11/15,03/17
+159,Providence University,3.66,PhD,Miami,F,0,0,0,2,Lawyer,07/12,01/18,Junior SWE,04/10,04/18,Junior SWE,06/14,09/15
+160,Providence University,3.66,PhD,Boston,M,1,0,0,1,Senior SWE,08/18,04/16,Senior SWE,06/11,06/16,Lawyer,02/11,05/19
+161,State Providence College,3.1,Master's,Providence,M,0,1,0,0,Lawyer,10/10,01/15,Research Assistant,02/19,11/15,Research Assistant,03/15,11/17
+162,Providence School,3.99,Master's,Providence,F,0,0,0,2,Lawyer,12/14,07/16,Data Scientist,04/18,08/13,Data Scientist,05/16,07/19
+163,Providence Tech Institute,2.83,PhD,New York,F,0,0,0,4,Research Assistant,05/15,07/12,Junior SWE,06/19,06/13,Junior SWE,01/10,11/19
+164,Providence State University,2.79,PhD,Chicago,M,0,0,0,3,ML Engineer,02/10,03/18,Research Assistant,04/16,04/12,Junior SWE,09/18,07/15
+165,Providence School,3.29,Master's,Providence,M,0,1,0,0,Data Scientist,02/10,12/13,Research Assistant,05/11,07/16,Junior SWE,03/12,07/12
+166,Providence University,3.33,PhD,Los Angeles,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+167,State Providence College,3.13,Master's,Chicago,F,0,0,0,0,Research Assistant,01/12,08/12,Research Assistant,06/18,02/14,Lawyer,07/15,09/14
+168,Providence State University,3.36,Master's,New York,F,0,0,0,0,Junior SWE,10/17,04/19,Research Assistant,01/17,10/17,ML Engineer,05/18,09/17
+169,Providence School,3.84,Master's,Chicago,M,0,0,0,0,Junior SWE,04/11,05/17,Data Scientist,03/11,03/12,Lawyer,07/17,04/14
+170,Providence State University,3.2,Master's,Boston,F,0,1,0,1,Data Scientist,12/16,09/15,Research Assistant,05/11,03/10,N/A,08/18,10/12
+171,Providence City College,3.99,Bachelor's,Los Angeles,N/A,0,0,0,2,Senior SWE,09/16,09/19,Lawyer,05/11,02/16,N/A,02/11,11/17
+172,Providence University,3.92,Bachelor's,Los Angeles,M,0,1,0,1,Research Assistant,06/10,10/14,Lawyer,12/13,06/18,N/A,06/19,05/16
+173,Providence School,3.56,Bachelor's,Providence,N/A,0,1,0,3,ML Engineer,12/19,09/19,ML Engineer,06/16,09/16,N/A,05/12,08/13
+174,Providence City College,3.56,Master's,Chicago,F,0,1,0,0,Lawyer,04/12,05/13,ML Engineer,05/12,12/18,Research Assistant,08/11,03/19
+175,Providence Tech Institute,3.59,Master's,Miami,F,0,0,1,1,Junior SWE,10/15,06/16,Data Scientist,09/12,01/15,Research Assistant,01/13,10/19
+176,State Providence College,3.79,Master's,New York,M,0,0,0,0,ML Engineer,01/10,07/12,Research Assistant,04/15,02/17,Data Scientist,05/13,02/19
+177,Providence Tech Institute,3.75,Bachelor's,Chicago,F,0,0,0,0,Lawyer,09/13,12/13,ML Engineer,11/12,05/11,N/A,10/16,11/11
+178,Providence State University,3.58,Bachelor's,Boston,F,0,0,0,3,Lawyer,04/17,06/16,Lawyer,07/16,09/14,Research Assistant,10/11,03/16
+179,Providence School,3.72,Bachelor's,Providence,M,0,0,0,4,Lawyer,10/18,06/13,Junior SWE,09/16,09/17,Senior SWE,06/12,01/12
+180,Providence School,3.15,Bachelor's,Boston,M,0,1,0,0,Junior SWE,02/11,02/11,Data Scientist,12/10,09/13,Data Scientist,07/14,10/17
+181,Providence Tech Institute,3.25,Bachelor's,Providence,N/A,0,0,0,0,Research Assistant,12/19,02/15,Lawyer,01/14,12/12,Senior SWE,10/14,09/16
+182,Providence University,3.84,PhD,Providence,M,0,0,0,3,Data Scientist,03/12,10/15,Lawyer,05/14,06/12,Data Scientist,12/10,04/19
+183,State Providence College,2.64,Bachelor's,New York,M,0,0,0,1,Junior SWE,02/19,01/15,ML Engineer,07/13,12/17,ML Engineer,02/18,10/19
+184,Providence School,3.66,Bachelor's,Providence,M,0,0,0,1,Research Assistant,05/16,11/14,Lawyer,05/10,12/11,Research Assistant,10/14,01/17
+185,Providence State University,3.51,PhD,Los Angeles,M,0,0,0,1,Senior SWE,03/13,05/17,Research Assistant,07/16,02/10,Research Assistant,02/12,06/15
+186,Providence University,2.72,Bachelor's,New York,F,0,0,0,0,Senior SWE,06/16,08/13,Junior SWE,10/14,06/18,Data Scientist,04/18,08/16
+187,Providence School,3.13,Master's,Providence,F,0,0,0,3,Lawyer,04/17,08/17,Junior SWE,09/13,12/13,Senior SWE,04/18,10/11
+188,State Providence College,3.59,Bachelor's,Los Angeles,F,0,0,0,1,Data Scientist,09/10,01/14,Junior SWE,09/18,07/10,Lawyer,04/19,09/16
+189,Providence School,3.59,PhD,Boston,F,0,0,0,1,ML Engineer,10/11,09/16,Research Assistant,02/14,08/19,Senior SWE,10/19,05/13
+190,Providence Tech Institute,3.54,Bachelor's,Providence,N/A,0,0,1,0,Research Assistant,05/10,04/10,Senior SWE,01/19,04/16,Research Assistant,06/11,10/19
+191,Providence Tech Institute,2.73,Bachelor's,Chicago,M,0,1,0,0,Data Scientist,11/12,04/12,Senior SWE,03/18,03/15,N/A,01/15,03/18
+192,Providence City College,3.67,PhD,Los Angeles,F,1,0,1,3,Research Assistant,04/12,11/15,Research Assistant,10/12,12/16,ML Engineer,01/15,06/15
+193,Providence State University,2.7,Master's,Los Angeles,M,0,0,0,0,Lawyer,05/18,10/18,Junior SWE,12/16,06/14,N/A,01/12,05/17
+194,Providence Tech Institute,3.97,Bachelor's,Los Angeles,F,1,1,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+195,Providence Tech Institute,2.73,Master's,Providence,M,0,0,0,3,Research Assistant,10/17,10/18,Lawyer,02/12,09/18,Senior SWE,07/17,12/18
+196,Providence Tech Institute,3.39,Bachelor's,Providence,M,0,1,N/A,0,Senior SWE,09/10,08/14,Data Scientist,01/10,09/18,Junior SWE,01/13,12/14
+197,Providence City College,3.66,Master's,New York,M,0,1,0,0,Data Scientist,05/19,05/18,ML Engineer,05/10,10/18,Senior SWE,04/16,07/12
+198,Providence State University,2.51,PhD,New York,F,0,1,0,0,Senior SWE,11/13,10/14,Senior SWE,08/12,05/14,Senior SWE,03/13,10/19
+199,Providence State University,3.58,Master's,Los Angeles,F,0,0,0,1,Lawyer,06/17,11/18,Research Assistant,02/10,07/19,Data Scientist,10/11,09/12
+200,Providence University,2.84,Bachelor's,Miami,N/A,0,1,0,0,Research Assistant,01/17,05/19,ML Engineer,02/12,06/15,Data Scientist,03/16,10/16
+201,Providence School,2.77,Master's,Boston,M,0,0,0,1,Data Scientist,08/15,09/17,Senior SWE,10/10,02/13,N/A,10/10,06/19
+202,Providence State University,2.61,Master's,Boston,F,0,0,0,1,Lawyer,09/16,08/17,Research Assistant,09/13,06/12,N/A,04/18,05/19
+203,Providence University,2.79,PhD,Chicago,M,0,0,0,0,Data Scientist,10/12,11/16,ML Engineer,08/16,04/10,Lawyer,02/13,04/17
+204,State Providence College,3.41,PhD,Chicago,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+205,Providence School,4.0,Bachelor's,Chicago,F,0,1,0,3,Senior SWE,11/16,02/19,Lawyer,05/16,05/17,Research Assistant,10/16,12/11
+206,State Providence College,3.35,Master's,Los Angeles,M,0,0,0,0,Lawyer,01/19,01/11,ML Engineer,11/14,10/14,Lawyer,08/19,07/13
+207,State Providence College,3.41,Master's,Providence,M,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+208,Providence State University,3.08,Master's,New York,F,0,0,0,0,Senior SWE,01/16,11/12,ML Engineer,10/14,10/17,Junior SWE,12/18,07/14
+209,Providence State University,2.56,Master's,New York,M,0,0,0,0,Senior SWE,04/15,05/13,Lawyer,01/15,03/18,Senior SWE,07/14,09/15
+210,Providence University,3.6,Bachelor's,Boston,F,0,0,0,2,Research Assistant,11/10,01/15,ML Engineer,01/17,02/16,Junior SWE,11/10,09/14
+211,Providence State University,2.62,Master's,Boston,M,0,1,0,0,Lawyer,06/16,02/10,Data Scientist,05/10,01/11,ML Engineer,04/11,06/17
+212,Providence University,3.58,Master's,Boston,M,0,0,0,0,Senior SWE,08/17,06/15,Senior SWE,06/16,04/10,Senior SWE,01/12,06/15
+213,Providence State University,3.75,PhD,New York,N/A,0,0,0,0,Lawyer,10/18,02/12,Senior SWE,10/16,10/11,Junior SWE,07/14,12/10
+214,State Providence College,2.84,PhD,Chicago,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+215,Providence City College,3.66,Master's,Providence,F,0,0,0,0,Senior SWE,12/14,08/17,Senior SWE,07/13,03/16,Research Assistant,06/15,03/18
+216,Providence School,3.87,Master's,Chicago,M,0,1,0,1,ML Engineer,12/14,01/13,Junior SWE,07/18,01/13,Research Assistant,03/12,07/13
+217,Providence School,3.34,PhD,Boston,F,0,0,0,0,Lawyer,11/14,02/18,Data Scientist,09/17,02/11,Data Scientist,10/13,11/19
+218,Providence State University,3.14,PhD,New York,F,0,0,0,3,Junior SWE,11/16,02/19,Senior SWE,05/13,10/18,Junior SWE,11/10,01/15
+219,Providence Tech Institute,3.33,PhD,Boston,F,0,0,0,3,Junior SWE,04/13,12/11,Research Assistant,11/19,10/10,Lawyer,10/15,03/18
+220,Providence Tech Institute,3.71,PhD,Boston,F,0,1,0,3,Data Scientist,08/13,01/14,Data Scientist,10/16,12/11,ML Engineer,04/12,05/12
+221,State Providence College,3.42,PhD,New York,M,1,0,0,2,Lawyer,02/15,12/14,Data Scientist,04/15,07/12,Data Scientist,07/15,06/14
+222,Providence State University,3.35,Master's,Chicago,F,0,0,0,0,Lawyer,05/19,04/19,Lawyer,01/16,05/12,Senior SWE,08/13,12/17
+223,Providence City College,3.11,Bachelor's,Los Angeles,F,0,0,0,0,Lawyer,02/16,09/17,Junior SWE,03/11,09/14,N/A,07/16,06/12
+224,Providence City College,2.54,Bachelor's,Los Angeles,M,0,1,0,4,Data Scientist,12/12,08/17,ML Engineer,05/13,11/16,Lawyer,10/15,08/16
+225,State Providence College,2.72,Bachelor's,Los Angeles,F,0,0,1,4,Junior SWE,01/15,02/18,Lawyer,05/15,03/19,N/A,07/14,02/13
+226,Providence School,3.27,PhD,Providence,F,0,0,0,3,ML Engineer,08/16,10/19,ML Engineer,08/16,06/18,Senior SWE,07/16,06/15
+227,State Providence College,3.47,PhD,Providence,N/A,0,1,0,1,Data Scientist,03/11,01/18,Lawyer,11/12,11/14,Lawyer,04/18,01/14
+228,Providence School,2.77,Master's,Boston,F,1,1,0,0,Lawyer,10/16,02/13,Senior SWE,03/11,02/10,Data Scientist,09/19,05/14
+229,Providence State University,3.52,Bachelor's,Boston,M,0,0,1,0,Research Assistant,06/10,10/12,Lawyer,10/16,01/12,Senior SWE,05/11,02/19
+230,State Providence College,3.29,Bachelor's,New York,M,1,0,0,1,Lawyer,03/19,09/15,Data Scientist,12/12,10/11,Lawyer,05/19,10/16
+231,State Providence College,3.51,Master's,Miami,M,0,0,0,0,Lawyer,06/13,10/17,Junior SWE,02/13,01/10,Research Assistant,10/17,01/16
+232,Providence Tech Institute,3.29,Master's,Los Angeles,N/A,0,0,0,0,ML Engineer,03/15,02/17,Senior SWE,08/11,08/10,Senior SWE,04/13,05/15
+233,Providence Tech Institute,3.14,Bachelor's,New York,F,0,0,0,3,Research Assistant,01/19,03/10,ML Engineer,04/16,08/19,Lawyer,10/15,08/19
+234,State Providence College,2.97,PhD,Chicago,M,0,0,0,0,Lawyer,04/19,05/12,Lawyer,10/18,05/13,ML Engineer,01/14,02/17
+235,State Providence College,2.75,PhD,Chicago,M,0,0,0,3,Data Scientist,11/18,07/12,Lawyer,11/12,07/18,Research Assistant,03/16,01/17
+236,Providence Tech Institute,2.63,Bachelor's,New York,F,0,0,0,0,Lawyer,04/17,10/17,Senior SWE,03/16,06/15,Research Assistant,01/13,06/11
+237,Providence University,3.78,Bachelor's,Miami,N/A,0,1,0,0,Junior SWE,03/17,09/17,ML Engineer,09/11,04/18,Data Scientist,02/19,03/12
+238,Providence School,3.32,Master's,Los Angeles,F,0,0,0,0,Research Assistant,09/17,07/12,Data Scientist,04/11,09/10,ML Engineer,05/14,11/19
+239,Providence State University,3.98,Master's,New York,M,0,1,0,3,Junior SWE,03/19,04/17,ML Engineer,03/10,05/14,Research Assistant,12/15,08/19
+240,Providence Tech Institute,3.77,PhD,Boston,M,0,0,1,1,Junior SWE,03/19,09/19,Research Assistant,02/18,04/12,ML Engineer,09/16,12/18
+241,Providence State University,2.68,PhD,Los Angeles,F,0,1,0,3,Research Assistant,03/17,09/18,Data Scientist,12/11,07/10,Junior SWE,05/15,05/11
+242,State Providence College,3.81,Master's,Los Angeles,M,0,1,0,0,Lawyer,07/12,11/11,Senior SWE,04/11,03/15,Senior SWE,01/10,12/19
+243,Providence State University,3.66,Master's,Chicago,M,1,1,1,3,Research Assistant,07/17,12/13,Research Assistant,05/18,06/16,ML Engineer,03/13,10/10
+244,State Providence College,3.98,Master's,New York,F,0,0,0,3,Data Scientist,11/12,02/13,Senior SWE,12/12,02/19,Lawyer,06/12,07/14
+245,State Providence College,3.83,Master's,Chicago,N/A,0,0,0,0,Junior SWE,03/12,05/14,Junior SWE,05/15,10/16,Data Scientist,12/16,11/17
+246,State Providence College,3.04,Bachelor's,Boston,F,0,0,0,3,Junior SWE,10/12,01/14,Lawyer,04/17,08/18,Junior SWE,07/13,06/17
+247,Providence University,3.46,Master's,Boston,M,0,1,0,0,Research Assistant,01/12,05/19,Lawyer,12/11,09/18,Data Scientist,11/11,08/15
+248,Providence Tech Institute,3.46,Master's,Chicago,M,0,0,0,4,Senior SWE,09/15,10/12,Junior SWE,07/18,08/12,Junior SWE,12/18,08/16
+249,Providence School,3.91,Master's,New York,M,0,0,0,1,Research Assistant,01/17,04/17,Lawyer,01/14,01/10,Lawyer,09/19,11/10
+250,Providence State University,2.76,Bachelor's,Miami,F,0,0,0,1,ML Engineer,03/16,01/12,Data Scientist,06/19,11/11,ML Engineer,12/18,12/14
+251,Providence School,3.16,Master's,Miami,F,0,0,0,0,Lawyer,12/19,02/10,Research Assistant,06/16,08/18,ML Engineer,07/12,05/15
+252,Providence City College,3.37,PhD,Providence,M,0,0,0,2,Lawyer,11/16,10/15,Lawyer,10/12,11/10,N/A,03/17,11/19
+253,Providence Tech Institute,2.51,Master's,Miami,F,1,0,0,0,Research Assistant,09/18,05/13,Junior SWE,03/15,12/17,Junior SWE,09/15,03/18
+254,Providence Tech Institute,2.72,Master's,Chicago,F,0,1,0,0,Research Assistant,08/16,10/14,Research Assistant,10/14,07/14,ML Engineer,01/19,07/16
+255,Providence City College,3.47,PhD,Los Angeles,F,0,0,0,0,Lawyer,06/10,12/17,Senior SWE,06/13,06/19,Lawyer,04/14,08/12
+256,Providence State University,3.21,Bachelor's,Boston,F,0,0,0,0,Junior SWE,09/18,12/18,Junior SWE,05/18,12/11,ML Engineer,07/14,01/19
+257,Providence University,2.89,Bachelor's,Los Angeles,F,0,1,0,0,Data Scientist,11/13,05/16,Research Assistant,11/10,09/14,Senior SWE,06/10,12/19
+258,Providence School,2.78,PhD,Los Angeles,F,0,0,0,3,Junior SWE,08/14,04/11,Research Assistant,03/10,09/15,ML Engineer,11/13,02/16
+259,Providence University,3.63,Master's,New York,F,1,0,0,2,Data Scientist,02/13,06/17,Senior SWE,07/17,03/18,Junior SWE,04/18,10/15
+260,State Providence College,3.25,Master's,Los Angeles,F,0,0,0,0,Lawyer,02/12,10/10,Research Assistant,08/13,02/15,Junior SWE,05/11,03/17
+261,State Providence College,2.93,Bachelor's,New York,M,0,0,0,0,Senior SWE,06/18,04/10,Lawyer,02/14,01/17,ML Engineer,11/13,02/12
+262,State Providence College,3.01,Bachelor's,Providence,M,0,0,0,0,Data Scientist,04/12,02/11,Senior SWE,08/13,12/16,N/A,11/19,05/10
+263,Providence Tech Institute,3.64,Master's,Los Angeles,M,1,0,0,0,ML Engineer,02/17,12/11,Lawyer,05/12,10/17,ML Engineer,08/14,12/11
+264,Providence University,3.06,Bachelor's,Miami,F,0,0,0,0,Research Assistant,11/15,06/18,Data Scientist,11/11,02/17,Lawyer,11/13,05/16
+265,Providence Tech Institute,3.09,Master's,Boston,F,0,0,0,0,Research Assistant,01/10,05/18,ML Engineer,09/11,02/16,Senior SWE,01/13,06/16
+266,Providence University,3.27,PhD,New York,F,0,1,0,3,Senior SWE,05/13,07/18,Data Scientist,12/15,10/15,Research Assistant,07/17,11/16
+267,Providence State University,2.59,Master's,Los Angeles,M,0,0,0,1,Data Scientist,09/19,03/17,Data Scientist,04/18,05/16,ML Engineer,02/16,02/10
+268,Providence City College,3.58,Bachelor's,Boston,F,0,0,0,3,Junior SWE,12/13,03/16,Senior SWE,09/11,10/14,N/A,04/12,10/13
+269,Providence Tech Institute,2.64,Master's,Providence,M,0,0,0,1,ML Engineer,05/16,08/10,Lawyer,12/11,04/18,Senior SWE,05/13,05/19
+270,State Providence College,3.83,Master's,New York,M,0,0,0,0,Senior SWE,09/16,06/10,Senior SWE,12/10,12/10,Junior SWE,08/14,02/12
+271,State Providence College,3.31,Master's,Miami,F,0,0,0,3,Data Scientist,09/18,02/18,Lawyer,12/13,11/15,Lawyer,06/15,11/18
+272,Providence Tech Institute,3.91,PhD,New York,M,0,0,0,1,Lawyer,01/17,01/13,Senior SWE,11/16,11/16,ML Engineer,11/15,07/12
+273,Providence City College,3.1,Bachelor's,Boston,F,0,1,0,0,ML Engineer,01/10,01/18,Junior SWE,03/13,01/19,Data Scientist,08/10,07/12
+274,Providence School,3.98,Bachelor's,Miami,F,0,0,0,0,Senior SWE,09/16,01/19,Data Scientist,07/11,12/18,N/A,12/12,08/11
+275,Providence State University,3.41,Master's,Providence,F,0,1,0,0,Data Scientist,12/16,07/14,Lawyer,01/14,02/17,Data Scientist,09/12,03/12
+276,State Providence College,2.69,PhD,Miami,M,0,0,0,0,Data Scientist,10/17,02/16,ML Engineer,11/12,05/10,Research Assistant,05/15,02/15
+277,Providence State University,3.34,Bachelor's,Chicago,M,0,0,0,1,Senior SWE,05/11,04/18,Junior SWE,04/18,06/15,Junior SWE,07/12,09/19
+278,Providence City College,2.58,Master's,Boston,M,0,0,0,1,ML Engineer,03/12,07/10,Junior SWE,05/10,03/16,Junior SWE,04/16,08/18
+279,Providence School,3.16,Master's,Los Angeles,F,0,0,N/A,0,Research Assistant,07/17,03/14,ML Engineer,03/16,12/18,Data Scientist,05/14,07/11
+280,Providence Tech Institute,3.51,Bachelor's,Chicago,M,0,0,0,0,Junior SWE,08/13,09/16,Research Assistant,10/15,05/10,Data Scientist,04/17,04/12
+281,Providence State University,2.7,Master's,Providence,F,0,0,0,0,Senior SWE,05/13,12/16,Senior SWE,05/17,08/13,Senior SWE,08/19,11/18
+282,Providence University,2.75,Bachelor's,Los Angeles,M,0,0,0,0,Junior SWE,04/10,03/19,Research Assistant,04/14,05/10,Junior SWE,08/16,10/19
+283,Providence University,3.64,Master's,Miami,M,0,0,0,0,Data Scientist,09/18,04/12,Senior SWE,12/19,12/15,Data Scientist,09/16,08/14
+284,Providence School,2.91,Master's,Boston,M,0,1,1,2,Data Scientist,09/12,04/17,Senior SWE,04/16,07/15,N/A,02/19,10/13
+285,Providence City College,3.78,Bachelor's,Providence,F,0,1,0,0,Research Assistant,01/10,02/13,Senior SWE,08/16,05/16,Data Scientist,03/14,02/11
+286,Providence University,3.42,Master's,Miami,F,0,0,0,0,ML Engineer,11/10,01/16,Lawyer,07/16,07/11,Lawyer,11/10,09/18
+287,State Providence College,3.32,Bachelor's,New York,M,0,0,0,0,Junior SWE,08/10,06/14,Junior SWE,07/19,02/10,Research Assistant,11/12,10/15
+288,Providence University,3.09,Bachelor's,New York,M,0,0,0,0,Senior SWE,03/18,10/17,ML Engineer,06/13,02/10,Data Scientist,01/12,04/16
+289,State Providence College,3.94,Bachelor's,New York,M,1,0,0,0,Data Scientist,04/15,03/13,ML Engineer,02/19,02/19,Data Scientist,04/18,07/10
+290,State Providence College,3.44,Bachelor's,Boston,F,0,0,0,1,Lawyer,10/14,05/14,Lawyer,11/18,10/12,Data Scientist,04/14,08/16
+291,State Providence College,2.62,PhD,Chicago,F,0,0,0,0,Senior SWE,12/14,12/12,Research Assistant,07/19,04/18,ML Engineer,08/15,07/18
+292,State Providence College,3.11,PhD,Providence,M,0,1,0,1,ML Engineer,06/12,05/11,Research Assistant,01/10,07/16,Data Scientist,05/16,07/11
+293,Providence University,2.68,Master's,Providence,M,0,0,0,0,Lawyer,05/18,02/15,Research Assistant,09/19,05/10,Research Assistant,05/18,10/14
+294,Providence School,3.6,PhD,New York,F,1,1,0,1,Data Scientist,04/14,08/19,ML Engineer,02/18,02/15,Junior SWE,03/13,11/12
+295,State Providence College,2.87,PhD,Chicago,F,0,0,0,1,Data Scientist,04/13,04/11,Junior SWE,10/12,01/18,ML Engineer,08/15,07/12
+296,Providence School,2.52,PhD,New York,F,0,0,0,0,Senior SWE,04/17,02/15,Senior SWE,01/19,10/10,ML Engineer,07/14,02/13
+297,Providence School,3.99,Bachelor's,Los Angeles,M,0,0,0,0,ML Engineer,03/10,10/12,Research Assistant,11/19,08/17,Lawyer,03/15,12/15
+298,Providence Tech Institute,3.21,Bachelor's,Chicago,F,0,0,0,0,Data Scientist,07/12,11/18,Lawyer,08/18,02/10,N/A,01/19,10/18
+299,Providence School,2.55,PhD,Los Angeles,F,0,0,0,0,Data Scientist,04/15,07/10,Senior SWE,11/17,02/14,ML Engineer,09/19,10/13
+300,Providence City College,3.18,PhD,Chicago,M,0,0,1,3,Lawyer,09/18,07/17,Data Scientist,08/14,06/18,Research Assistant,04/10,02/16
+301,Providence State University,2.91,Master's,Chicago,M,0,1,0,0,Data Scientist,06/18,07/19,Junior SWE,05/14,04/16,Data Scientist,08/10,09/16
+302,State Providence College,3.59,Bachelor's,Providence,F,0,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+303,Providence School,2.51,Master's,Los Angeles,M,0,0,0,0,ML Engineer,08/15,01/14,Lawyer,02/16,04/19,N/A,12/14,02/13
+304,Providence Tech Institute,2.71,PhD,Miami,F,0,0,0,0,ML Engineer,12/15,12/17,Junior SWE,01/16,06/10,Lawyer,08/14,10/17
+305,Providence Tech Institute,3.03,Bachelor's,Miami,F,1,1,0,1,Junior SWE,12/12,08/16,Junior SWE,12/18,08/12,Senior SWE,09/10,08/11
+306,Providence State University,3.1,Bachelor's,Boston,F,0,0,1,0,Lawyer,02/10,11/16,Senior SWE,07/14,04/10,ML Engineer,04/19,01/13
+307,Providence Tech Institute,3.23,PhD,Providence,F,0,0,0,0,Lawyer,03/10,05/19,Data Scientist,10/15,02/16,Lawyer,12/18,03/12
+308,State Providence College,3.03,Bachelor's,Providence,F,0,0,0,0,ML Engineer,11/13,02/12,Junior SWE,06/12,11/11,Senior SWE,06/16,04/12
+309,Providence Tech Institute,3.1,Bachelor's,Providence,M,0,0,0,0,ML Engineer,11/17,05/15,Junior SWE,09/11,08/19,Lawyer,08/15,02/19
+310,Providence State University,3.23,PhD,Boston,F,0,0,0,0,Data Scientist,11/14,11/18,ML Engineer,10/19,05/10,ML Engineer,12/12,02/10
+311,State Providence College,3.9,Master's,Boston,F,0,0,0,3,Lawyer,10/10,06/12,Lawyer,05/12,10/10,ML Engineer,03/17,08/14
+312,Providence University,3.29,Bachelor's,Providence,F,0,0,0,0,Senior SWE,04/19,07/13,Senior SWE,06/17,02/11,Research Assistant,02/13,12/11
+313,State Providence College,3.15,Master's,Los Angeles,M,0,1,0,1,Senior SWE,02/12,07/16,Data Scientist,04/15,09/15,Junior SWE,08/11,03/19
+314,Providence School,2.57,PhD,Providence,M,0,0,0,0,Lawyer,11/19,06/14,Senior SWE,03/18,09/15,Data Scientist,10/17,11/14
+315,Providence University,2.72,Master's,Providence,F,0,1,0,3,Research Assistant,02/10,07/15,ML Engineer,11/11,05/13,Data Scientist,11/17,07/12
+316,Providence City College,3.64,Master's,Providence,F,0,0,1,0,Junior SWE,02/11,08/11,Junior SWE,04/19,10/14,Data Scientist,02/14,02/10
+317,Providence School,3.94,PhD,Chicago,M,0,0,0,3,Research Assistant,02/10,11/16,Junior SWE,01/12,04/18,Junior SWE,02/10,08/17
+318,Providence School,3.08,Master's,Miami,F,0,0,0,3,Lawyer,02/15,03/12,Research Assistant,02/18,06/14,Junior SWE,08/16,01/13
+319,Providence School,3.94,Bachelor's,Chicago,F,0,0,0,0,Lawyer,11/14,01/10,ML Engineer,09/10,10/13,Senior SWE,11/10,01/15
+320,Providence State University,2.99,Bachelor's,New York,F,0,1,0,1,Senior SWE,06/11,09/13,Senior SWE,01/19,02/16,Data Scientist,12/16,08/12
+321,Providence State University,3.93,PhD,Los Angeles,M,0,0,0,0,Research Assistant,07/17,04/14,Research Assistant,08/10,05/14,Senior SWE,01/19,11/15
+322,State Providence College,3.41,Bachelor's,New York,M,1,1,0,2,Senior SWE,09/10,01/11,Research Assistant,08/19,10/12,Senior SWE,06/10,03/15
+323,Providence State University,2.54,PhD,Chicago,F,0,0,0,3,Junior SWE,12/14,03/15,Junior SWE,04/15,06/16,Lawyer,06/18,10/10
+324,Providence City College,2.62,PhD,Miami,M,0,0,0,3,Junior SWE,05/14,09/12,Junior SWE,09/12,04/19,Data Scientist,06/17,03/14
+325,Providence Tech Institute,3.97,Bachelor's,Providence,M,1,1,0,0,Lawyer,12/17,03/15,Research Assistant,12/16,11/12,Junior SWE,02/17,04/10
+326,Providence Tech Institute,2.96,Master's,Miami,M,0,1,0,0,Senior SWE,11/10,07/13,Data Scientist,02/14,08/18,N/A,05/19,11/16
+327,Providence City College,2.52,Bachelor's,Providence,F,1,0,0,0,ML Engineer,02/15,12/11,ML Engineer,05/11,04/17,Senior SWE,03/11,05/16
+328,Providence School,2.62,Master's,Chicago,F,0,0,0,3,Data Scientist,09/11,03/16,Lawyer,10/14,08/17,Data Scientist,05/10,11/17
+329,Providence City College,3.29,Bachelor's,New York,M,0,1,0,1,Junior SWE,01/18,09/15,Junior SWE,04/11,04/12,N/A,10/13,12/12
+330,State Providence College,2.84,Master's,Boston,M,0,0,0,0,ML Engineer,01/18,11/18,Data Scientist,07/16,08/11,Research Assistant,09/15,11/17
+331,Providence City College,3.63,Master's,Los Angeles,F,0,0,0,0,Junior SWE,12/18,04/19,Lawyer,01/11,09/15,Research Assistant,02/19,03/17
+332,Providence City College,3.83,PhD,Boston,F,0,0,0,0,ML Engineer,06/11,12/17,Lawyer,09/15,08/14,N/A,03/13,07/12
+333,Providence Tech Institute,3.04,Master's,Boston,M,0,0,0,3,ML Engineer,12/11,02/15,Junior SWE,06/18,08/14,Research Assistant,08/14,02/15
+334,Providence University,3.54,Bachelor's,New York,F,0,0,0,3,Lawyer,12/10,03/18,Lawyer,02/11,09/15,ML Engineer,08/10,04/11
+335,Providence State University,3.59,PhD,Los Angeles,F,0,0,0,0,ML Engineer,07/16,08/19,Lawyer,05/19,11/12,Data Scientist,09/10,08/14
+336,Providence School,3.21,Master's,New York,N/A,1,1,1,0,Research Assistant,02/15,07/19,Senior SWE,08/19,08/10,Senior SWE,11/14,02/17
+337,Providence State University,2.89,Bachelor's,Boston,M,0,0,0,3,ML Engineer,01/17,11/16,Junior SWE,06/11,10/17,Research Assistant,04/12,09/10
+338,State Providence College,3.64,Master's,Los Angeles,M,0,1,0,0,Senior SWE,04/19,01/15,Junior SWE,10/12,05/18,ML Engineer,04/19,01/17
+339,Providence School,2.58,Bachelor's,Chicago,M,0,0,0,0,ML Engineer,06/10,05/15,Senior SWE,03/16,06/19,Data Scientist,07/14,02/14
+340,Providence School,2.62,PhD,New York,N/A,0,0,0,3,Senior SWE,06/18,03/11,ML Engineer,10/12,10/17,ML Engineer,04/17,01/10
+341,Providence State University,2.68,Master's,New York,N/A,0,0,0,1,Research Assistant,07/10,11/16,ML Engineer,09/18,09/12,Senior SWE,08/16,10/13
+342,Providence School,2.98,PhD,New York,M,1,0,0,0,Junior SWE,06/11,04/10,Research Assistant,08/16,06/12,N/A,01/15,07/16
+343,Providence School,2.95,PhD,New York,M,1,1,0,0,Senior SWE,02/17,05/17,Data Scientist,04/13,09/12,Research Assistant,04/13,07/10
+344,Providence University,2.98,PhD,Chicago,F,0,0,0,1,Senior SWE,12/17,10/13,Junior SWE,02/17,11/18,Research Assistant,03/15,10/13
+345,Providence School,2.65,Bachelor's,Boston,M,0,1,0,0,Junior SWE,03/15,04/18,Lawyer,03/18,02/15,Lawyer,08/11,03/12
+346,Providence State University,3.13,Bachelor's,New York,M,0,0,0,0,Senior SWE,01/13,08/10,Research Assistant,12/11,12/14,Research Assistant,04/16,01/18
+347,Providence Tech Institute,3.23,Bachelor's,New York,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+348,Providence City College,3.82,PhD,Miami,F,0,0,0,3,Senior SWE,03/14,05/19,Lawyer,03/19,07/17,N/A,07/14,10/15
+349,Providence School,3.89,PhD,Providence,N/A,0,1,0,3,ML Engineer,08/11,02/12,Junior SWE,06/15,03/18,Data Scientist,04/16,12/11
+350,State Providence College,3.0,Master's,New York,F,1,0,0,1,Senior SWE,05/16,04/18,Research Assistant,05/11,08/14,Lawyer,03/12,02/12
+351,Providence School,3.94,Master's,Boston,M,0,0,0,0,ML Engineer,01/15,06/11,ML Engineer,02/18,07/13,ML Engineer,10/12,08/10
+352,Providence School,3.21,PhD,Providence,M,0,0,1,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+353,Providence School,3.76,Bachelor's,Miami,F,0,0,0,0,Lawyer,05/12,01/18,ML Engineer,12/11,08/11,Junior SWE,07/14,11/15
+354,Providence University,2.51,Master's,Miami,M,0,1,0,3,Senior SWE,07/13,04/18,Research Assistant,03/12,11/15,Lawyer,09/18,10/12
+355,State Providence College,2.62,PhD,Providence,F,0,1,0,1,Junior SWE,12/18,09/15,Lawyer,10/19,10/15,N/A,06/18,10/17
+356,Providence City College,3.14,Bachelor's,New York,M,0,1,0,3,Junior SWE,09/11,10/19,Research Assistant,06/16,09/17,Lawyer,07/12,07/19
+357,Providence State University,3.09,Bachelor's,Los Angeles,N/A,0,1,0,0,Data Scientist,06/15,04/18,Data Scientist,08/18,01/15,ML Engineer,09/17,11/14
+358,Providence City College,3.19,PhD,Boston,N/A,0,0,0,3,Research Assistant,12/18,03/14,Junior SWE,02/10,09/12,Senior SWE,04/15,01/17
+359,Providence School,2.9,PhD,Boston,M,0,0,0,0,Data Scientist,05/12,04/12,ML Engineer,11/10,08/10,N/A,05/11,04/16
+360,Providence City College,3.36,Bachelor's,Boston,M,1,1,0,3,Junior SWE,07/11,09/16,Lawyer,12/17,12/18,Junior SWE,11/13,03/11
+361,Providence State University,3.61,Master's,New York,F,0,0,0,0,ML Engineer,10/12,06/16,Lawyer,05/10,01/15,Senior SWE,05/16,12/16
+362,Providence University,2.7,Bachelor's,Providence,M,0,1,1,1,Senior SWE,08/10,09/14,ML Engineer,06/17,04/17,Data Scientist,04/15,02/18
+363,Providence School,3.32,Bachelor's,Miami,M,0,0,0,3,Data Scientist,12/17,05/12,ML Engineer,02/13,10/11,N/A,11/19,12/18
+364,Providence University,2.86,PhD,Miami,M,0,0,N/A,0,Senior SWE,05/16,05/14,Lawyer,07/10,09/18,Senior SWE,05/12,12/10
+365,Providence University,3.83,PhD,Los Angeles,N/A,0,0,0,3,Senior SWE,06/11,07/16,Junior SWE,03/18,08/14,Lawyer,06/11,06/10
+366,Providence City College,3.86,Bachelor's,Miami,N/A,0,0,0,0,ML Engineer,04/10,07/15,ML Engineer,08/17,07/19,Junior SWE,07/18,05/13
+367,Providence City College,3.57,Master's,Providence,N/A,0,1,0,3,Lawyer,06/11,03/10,Lawyer,04/16,02/17,Data Scientist,09/10,03/18
+368,Providence City College,2.75,Bachelor's,Boston,M,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+369,Providence Tech Institute,3.93,PhD,New York,M,0,0,1,0,Research Assistant,03/19,07/14,Research Assistant,03/18,09/11,Lawyer,11/14,01/12
+370,Providence Tech Institute,3.61,PhD,Chicago,M,0,0,0,0,Data Scientist,06/16,01/18,Junior SWE,11/17,09/11,Senior SWE,10/17,07/18
+371,Providence Tech Institute,2.65,PhD,Miami,F,1,0,0,0,Data Scientist,03/19,04/18,Data Scientist,02/11,01/15,Data Scientist,05/10,09/19
+372,State Providence College,3.37,Master's,Los Angeles,M,0,0,0,1,Lawyer,12/13,04/19,Data Scientist,10/18,12/19,Data Scientist,08/10,05/10
+373,Providence University,3.43,Bachelor's,Los Angeles,F,0,0,0,1,Research Assistant,08/10,02/12,Senior SWE,09/14,06/14,Data Scientist,03/16,12/11
+374,Providence State University,3.39,PhD,Los Angeles,F,0,1,0,3,Lawyer,07/11,03/13,ML Engineer,06/12,11/14,N/A,02/14,05/12
+375,Providence Tech Institute,3.3,Bachelor's,New York,N/A,0,0,1,3,Research Assistant,10/19,04/11,Junior SWE,03/13,06/10,Research Assistant,02/15,05/12
+376,State Providence College,2.6,PhD,Los Angeles,N/A,1,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+377,Providence School,2.79,PhD,Boston,F,0,0,0,2,Junior SWE,01/14,04/17,ML Engineer,10/11,08/12,Lawyer,07/17,08/10
+378,Providence Tech Institute,3.9,PhD,Boston,F,0,0,1,0,Data Scientist,12/19,09/17,Lawyer,01/15,11/19,Data Scientist,01/11,03/14
+379,Providence School,3.66,Bachelor's,Miami,M,1,0,0,1,Junior SWE,04/11,04/13,Lawyer,09/12,01/15,Junior SWE,05/13,11/13
+380,Providence School,3.35,Bachelor's,Providence,F,0,0,0,0,Research Assistant,05/18,01/19,Data Scientist,05/14,11/12,N/A,02/19,10/13
+381,Providence City College,3.38,Bachelor's,Boston,F,0,0,0,3,Senior SWE,06/14,07/17,ML Engineer,06/12,02/15,N/A,10/11,04/19
+382,Providence School,2.95,Bachelor's,New York,M,0,1,0,3,ML Engineer,05/15,11/15,ML Engineer,08/13,10/19,Research Assistant,11/10,02/10
+383,Providence Tech Institute,2.98,Master's,Boston,F,0,1,0,0,Data Scientist,09/13,09/10,Junior SWE,04/17,01/16,Junior SWE,07/11,08/18
+384,Providence University,2.69,PhD,Boston,F,0,0,0,3,Senior SWE,03/11,07/18,Senior SWE,12/14,01/12,ML Engineer,04/17,10/19
+385,State Providence College,3.89,Master's,Providence,M,0,0,0,0,Senior SWE,09/10,09/13,Senior SWE,03/17,07/18,Data Scientist,10/19,02/19
+386,State Providence College,3.48,Bachelor's,Chicago,N/A,0,1,0,0,Data Scientist,06/13,11/19,Senior SWE,08/10,05/17,ML Engineer,04/14,12/13
+387,Providence University,2.9,Master's,Chicago,M,0,0,0,0,Junior SWE,10/16,04/10,Data Scientist,01/10,06/18,Research Assistant,05/19,02/14
+388,Providence Tech Institute,3.57,Master's,Chicago,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+389,Providence University,3.78,Bachelor's,Providence,F,0,0,0,0,ML Engineer,06/13,05/18,Research Assistant,12/13,08/10,Research Assistant,01/12,06/15
+390,Providence City College,3.55,PhD,Miami,M,0,0,0,0,Senior SWE,06/14,02/18,Junior SWE,04/19,07/18,Junior SWE,05/12,01/14
+391,Providence School,2.92,Master's,New York,M,1,1,0,1,Junior SWE,10/14,11/15,Lawyer,03/15,07/13,Data Scientist,02/15,09/16
+392,Providence City College,2.83,Bachelor's,Boston,F,0,1,0,1,Data Scientist,10/19,08/15,Senior SWE,09/15,03/13,Research Assistant,08/10,01/17
+393,Providence School,2.66,Master's,Miami,M,0,0,0,1,Research Assistant,09/15,01/16,Lawyer,05/16,02/19,Junior SWE,05/16,05/13
+394,Providence Tech Institute,3.1,Bachelor's,Los Angeles,F,0,1,0,0,Junior SWE,07/10,02/10,Senior SWE,08/14,10/12,N/A,09/13,12/10
+395,State Providence College,3.89,Bachelor's,Chicago,M,0,0,0,0,Research Assistant,02/14,08/14,Research Assistant,08/12,05/12,Senior SWE,10/10,10/19
+396,Providence University,2.8,PhD,New York,N/A,0,0,0,3,Junior SWE,06/15,07/14,Senior SWE,05/17,07/13,Data Scientist,02/11,03/19
+397,Providence University,3.22,PhD,New York,M,0,1,0,0,Data Scientist,07/15,03/12,Data Scientist,04/13,12/14,Senior SWE,11/14,10/19
+398,Providence University,2.51,PhD,Providence,F,0,0,0,2,Junior SWE,01/10,12/17,Data Scientist,03/14,10/13,Research Assistant,03/19,08/18
+399,State Providence College,3.77,Master's,Boston,M,1,0,0,0,Senior SWE,06/11,08/11,Junior SWE,05/17,10/13,Senior SWE,12/11,03/10
+400,Providence University,3.43,Master's,Boston,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+401,Providence University,2.98,Bachelor's,Boston,M,0,0,0,3,Senior SWE,02/19,11/19,Junior SWE,07/13,07/14,Lawyer,11/18,01/12
+402,Providence Tech Institute,2.69,Bachelor's,Providence,M,0,0,0,1,ML Engineer,10/19,01/17,Lawyer,04/14,03/15,Senior SWE,03/16,12/11
+403,State Providence College,3.45,PhD,Los Angeles,F,0,0,0,2,Senior SWE,08/14,05/11,Lawyer,02/19,12/16,Senior SWE,02/14,04/13
+404,Providence University,3.3,Master's,Providence,F,0,1,0,0,Research Assistant,06/10,06/13,ML Engineer,08/19,03/17,ML Engineer,07/19,07/12
+405,Providence State University,3.98,Bachelor's,Providence,M,0,0,0,0,Data Scientist,10/12,07/13,Research Assistant,06/10,07/12,Data Scientist,06/12,03/10
+406,Providence Tech Institute,3.2,Bachelor's,Providence,F,0,1,0,0,Research Assistant,04/18,03/14,Research Assistant,04/16,01/19,N/A,04/14,10/10
+407,Providence University,2.74,Bachelor's,Boston,M,0,0,0,3,Junior SWE,07/13,01/11,Data Scientist,04/11,08/13,Senior SWE,02/10,10/19
+408,Providence City College,3.77,Bachelor's,Miami,M,0,0,0,0,Research Assistant,09/15,12/11,Data Scientist,06/13,03/12,ML Engineer,10/12,08/17
+409,Providence Tech Institute,3.84,PhD,Boston,N/A,0,0,0,0,Data Scientist,09/18,10/15,Lawyer,02/12,09/11,Research Assistant,08/18,04/15
+410,Providence School,2.65,Master's,Los Angeles,M,0,0,0,0,Lawyer,09/11,06/17,ML Engineer,12/14,07/19,N/A,11/18,01/18
+411,Providence University,3.74,Master's,New York,N/A,0,1,0,0,Research Assistant,06/19,08/12,Lawyer,07/13,12/14,Junior SWE,03/11,10/11
+412,Providence University,2.89,Bachelor's,Chicago,F,0,1,0,3,ML Engineer,03/17,07/14,ML Engineer,05/14,09/18,Junior SWE,12/12,05/11
+413,Providence University,3.31,Bachelor's,Los Angeles,F,0,0,0,1,Data Scientist,03/18,06/15,Research Assistant,11/19,08/15,Data Scientist,01/11,05/13
+414,State Providence College,3.39,PhD,Los Angeles,M,0,1,0,1,Research Assistant,01/10,05/10,ML Engineer,06/17,08/13,Senior SWE,05/10,04/14
+415,Providence Tech Institute,3.84,Bachelor's,Miami,F,0,0,0,3,Lawyer,07/13,05/10,Research Assistant,07/19,05/13,Lawyer,11/12,04/10
+416,Providence City College,2.74,Master's,Boston,M,0,0,N/A,4,Senior SWE,11/14,06/16,ML Engineer,02/17,08/16,Lawyer,05/19,04/14
+417,Providence University,2.53,PhD,Providence,M,0,0,0,4,Senior SWE,11/12,07/19,Lawyer,07/17,10/13,N/A,07/13,06/11
+418,Providence University,3.4,PhD,Los Angeles,M,0,0,1,4,Junior SWE,01/15,06/10,Junior SWE,04/11,01/14,Senior SWE,10/17,02/17
+419,Providence Tech Institute,3.44,PhD,Chicago,F,0,0,0,3,Senior SWE,07/11,12/16,Research Assistant,01/16,09/10,Junior SWE,01/17,03/14
+420,State Providence College,3.95,Master's,Boston,F,1,0,0,1,Senior SWE,06/14,10/12,Data Scientist,04/16,02/13,Junior SWE,08/10,05/10
+421,Providence State University,2.65,Bachelor's,Los Angeles,F,0,0,0,0,Junior SWE,10/14,05/11,Research Assistant,05/14,11/17,ML Engineer,07/10,07/14
+422,Providence School,3.11,PhD,New York,F,0,0,0,0,Lawyer,03/15,03/10,Junior SWE,07/15,03/17,N/A,04/16,08/16
+423,Providence City College,3.57,Bachelor's,New York,F,1,0,0,0,Data Scientist,10/17,07/14,Research Assistant,06/16,04/16,N/A,01/14,04/16
+424,Providence Tech Institute,3.33,Bachelor's,Los Angeles,M,0,1,0,3,ML Engineer,06/13,09/12,Junior SWE,06/16,08/18,Research Assistant,03/11,06/13
+425,Providence Tech Institute,3.93,PhD,New York,M,0,0,0,2,Research Assistant,06/10,01/16,ML Engineer,07/11,02/10,ML Engineer,02/15,10/12
+426,Providence State University,2.63,PhD,Los Angeles,N/A,0,0,0,0,ML Engineer,10/18,10/15,Lawyer,03/17,09/17,Lawyer,07/11,05/13
+427,Providence University,2.72,PhD,Boston,M,0,0,0,0,Junior SWE,06/14,09/10,ML Engineer,01/12,11/19,ML Engineer,03/13,09/15
+428,Providence State University,3.42,Bachelor's,New York,N/A,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+429,Providence City College,3.44,Master's,Providence,F,0,0,0,3,Senior SWE,08/13,08/18,Data Scientist,04/14,02/11,Senior SWE,10/17,08/12
+430,Providence University,3.2,PhD,Boston,F,0,0,0,1,Lawyer,11/14,08/10,Research Assistant,10/10,04/15,Research Assistant,10/18,08/13
+431,Providence University,3.61,Master's,Chicago,F,0,0,0,1,Junior SWE,02/11,09/16,Senior SWE,09/11,06/14,N/A,05/11,12/14
+432,Providence University,3.0,Master's,Boston,M,0,0,0,1,Data Scientist,04/11,11/19,Data Scientist,07/10,11/11,N/A,01/19,05/15
+433,State Providence College,2.91,Bachelor's,Providence,F,0,0,0,0,Senior SWE,12/14,01/12,ML Engineer,06/16,05/10,ML Engineer,11/19,02/10
+434,Providence State University,2.78,Bachelor's,Providence,M,0,0,0,1,ML Engineer,05/12,05/17,Data Scientist,01/15,04/12,Research Assistant,12/11,09/13
+435,State Providence College,3.41,Bachelor's,Miami,M,0,0,0,4,Data Scientist,07/18,09/19,ML Engineer,01/16,03/14,Data Scientist,05/18,03/18
+436,State Providence College,3.71,Bachelor's,Chicago,F,1,1,0,0,Senior SWE,10/18,09/10,Research Assistant,09/12,12/16,Lawyer,05/12,08/10
+437,Providence State University,2.54,Master's,New York,M,0,0,0,3,Senior SWE,08/18,11/14,Lawyer,01/10,12/19,Junior SWE,05/13,10/14
+438,Providence State University,2.74,Master's,Providence,F,0,1,0,3,Data Scientist,11/16,01/16,Senior SWE,06/14,10/10,ML Engineer,12/19,03/14
+439,Providence University,3.78,PhD,New York,M,0,0,0,0,ML Engineer,01/15,08/15,ML Engineer,08/16,11/10,Research Assistant,02/15,08/14
+440,Providence Tech Institute,2.53,Bachelor's,Los Angeles,M,0,0,0,0,Research Assistant,01/17,07/16,ML Engineer,06/14,04/16,Data Scientist,07/17,07/15
+441,Providence Tech Institute,2.57,Bachelor's,Los Angeles,N/A,1,0,0,4,Research Assistant,01/18,02/16,Research Assistant,04/18,11/15,Junior SWE,11/18,04/17
+442,Providence City College,3.27,Master's,New York,F,0,0,0,0,Lawyer,10/17,03/11,Data Scientist,07/13,12/11,ML Engineer,08/17,05/18
+443,Providence School,3.05,Bachelor's,New York,F,0,0,0,3,Lawyer,02/11,05/11,Research Assistant,03/16,09/15,Senior SWE,11/10,12/11
+444,Providence University,3.65,Bachelor's,Chicago,F,0,0,0,0,Lawyer,07/12,02/13,Junior SWE,12/11,09/13,Lawyer,08/18,11/11
+445,Providence State University,3.48,PhD,Chicago,M,0,0,0,1,Lawyer,06/17,05/18,Junior SWE,09/15,03/17,Junior SWE,05/10,10/11
+446,Providence City College,2.78,PhD,New York,M,0,0,0,0,Data Scientist,07/14,03/10,ML Engineer,07/19,03/17,Junior SWE,10/13,06/15
+447,Providence City College,3.01,Master's,Providence,F,0,0,0,0,Lawyer,06/11,07/11,Research Assistant,09/15,08/10,Data Scientist,07/11,01/11
+448,Providence City College,2.63,Master's,New York,F,0,1,0,0,Lawyer,04/10,01/15,Junior SWE,02/12,10/12,N/A,10/18,09/10
+449,Providence Tech Institute,2.64,Bachelor's,Chicago,F,0,0,0,0,Senior SWE,12/12,09/11,Data Scientist,02/16,10/12,Lawyer,12/19,11/11
+450,Providence School,3.97,PhD,Miami,F,0,0,0,0,Lawyer,05/16,06/14,Junior SWE,04/11,06/18,Lawyer,12/19,01/12
+451,Providence Tech Institute,2.56,PhD,Miami,F,0,0,0,3,Junior SWE,05/14,06/14,Senior SWE,10/17,02/14,Data Scientist,06/19,02/17
+452,State Providence College,2.77,Bachelor's,Providence,F,0,1,0,0,Lawyer,05/18,07/18,Research Assistant,06/13,10/13,ML Engineer,03/19,09/18
+453,Providence University,3.1,PhD,Los Angeles,M,0,0,0,0,Senior SWE,10/10,01/10,ML Engineer,10/15,02/10,N/A,08/17,11/13
+454,Providence City College,3.39,PhD,Boston,M,0,0,0,0,Data Scientist,05/18,04/17,Research Assistant,02/17,06/13,N/A,06/19,11/14
+455,Providence University,3.93,Master's,Los Angeles,M,0,0,0,3,Junior SWE,10/17,06/11,Data Scientist,01/10,06/15,N/A,07/14,02/18
+456,Providence City College,3.08,PhD,Providence,F,0,0,0,3,Senior SWE,10/14,09/16,ML Engineer,08/14,01/15,Data Scientist,09/13,12/16
+457,Providence City College,2.78,Master's,Chicago,M,0,1,0,3,Research Assistant,12/14,08/12,Research Assistant,06/11,02/10,Junior SWE,12/14,04/14
+458,Providence City College,3.23,Bachelor's,Boston,M,0,0,0,0,Data Scientist,09/18,09/17,Research Assistant,09/16,08/19,Junior SWE,08/17,05/13
+459,State Providence College,3.66,Master's,New York,F,0,0,0,0,Research Assistant,04/10,04/19,Lawyer,06/11,07/12,Senior SWE,07/10,05/11
+460,Providence School,2.89,PhD,Providence,F,0,1,0,0,Junior SWE,10/10,06/15,Data Scientist,11/19,11/13,Lawyer,01/14,04/13
+461,Providence State University,2.75,Bachelor's,New York,N/A,0,0,0,1,Senior SWE,10/18,04/15,Junior SWE,03/18,04/18,Research Assistant,05/13,04/12
+462,Providence City College,3.57,PhD,Boston,N/A,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+463,Providence State University,3.28,PhD,Miami,M,0,0,0,0,Lawyer,04/13,07/15,Data Scientist,01/16,08/10,Junior SWE,09/14,07/16
+464,State Providence College,3.53,Master's,Providence,F,0,1,0,0,Research Assistant,08/18,12/14,Lawyer,02/11,02/19,Lawyer,03/12,06/16
+465,Providence City College,3.05,Bachelor's,Miami,N/A,0,0,1,0,Junior SWE,04/12,07/10,Data Scientist,10/14,04/14,ML Engineer,02/17,01/16
+466,State Providence College,3.72,Master's,Boston,F,0,0,0,2,Research Assistant,06/15,10/11,Data Scientist,03/13,12/15,N/A,03/16,06/10
+467,Providence City College,3.14,Master's,Providence,F,0,0,1,0,Lawyer,07/17,02/13,Lawyer,01/16,02/18,Lawyer,11/13,10/11
+468,Providence University,3.49,PhD,Miami,F,0,0,0,0,Lawyer,09/17,12/15,Senior SWE,11/15,10/19,Junior SWE,06/14,01/10
+469,Providence Tech Institute,3.07,Master's,Providence,F,0,0,0,0,Junior SWE,06/10,03/18,Senior SWE,05/11,09/11,Lawyer,02/16,06/18
+470,Providence School,3.35,Master's,New York,M,0,0,0,1,Lawyer,11/11,08/15,Senior SWE,04/10,12/19,ML Engineer,04/13,12/17
+471,Providence School,3.35,Bachelor's,Boston,M,0,1,0,1,Lawyer,04/16,11/18,Junior SWE,08/15,07/13,N/A,12/11,05/17
+472,Providence City College,3.7,PhD,Boston,M,1,1,N/A,0,ML Engineer,09/18,11/18,ML Engineer,06/14,03/11,Research Assistant,11/14,03/12
+473,Providence Tech Institute,2.65,Bachelor's,Los Angeles,F,0,0,0,3,Lawyer,12/15,09/11,Research Assistant,05/17,10/14,Junior SWE,01/13,03/11
+474,Providence City College,2.84,Master's,New York,N/A,0,0,0,0,Junior SWE,02/16,01/13,Junior SWE,03/13,12/16,ML Engineer,04/17,01/18
+475,Providence State University,2.94,PhD,Miami,M,0,0,0,0,Data Scientist,09/16,10/19,Junior SWE,01/11,08/19,Senior SWE,10/19,08/13
+476,Providence School,3.26,Master's,New York,F,1,1,0,0,Data Scientist,05/15,07/16,Lawyer,11/18,09/15,N/A,01/18,06/19
+477,Providence University,3.86,Master's,Boston,M,0,1,0,1,Junior SWE,07/15,09/13,Research Assistant,03/14,01/11,ML Engineer,01/11,07/12
+478,State Providence College,3.7,Bachelor's,Boston,F,0,0,1,3,Data Scientist,12/18,08/17,Junior SWE,08/18,04/11,Junior SWE,05/18,09/15
+479,Providence Tech Institute,3.76,PhD,Providence,M,1,1,0,2,Lawyer,10/13,10/14,ML Engineer,06/16,11/19,Lawyer,11/15,12/14
+480,Providence State University,3.02,PhD,Chicago,N/A,1,1,0,4,Data Scientist,04/12,06/13,Data Scientist,02/13,02/13,ML Engineer,08/11,11/19
+481,Providence City College,3.0,Master's,Chicago,F,0,0,0,1,Research Assistant,10/18,11/13,Lawyer,04/15,03/10,Lawyer,02/12,06/19
+482,Providence City College,3.55,Bachelor's,Miami,F,0,1,1,3,ML Engineer,04/18,09/15,Senior SWE,06/14,05/15,Junior SWE,10/18,12/18
+483,Providence Tech Institute,3.79,Master's,Los Angeles,N/A,0,0,0,0,Junior SWE,11/14,09/12,Junior SWE,03/12,11/14,Lawyer,04/17,01/18
+484,Providence Tech Institute,3.94,Bachelor's,New York,M,0,0,0,0,Senior SWE,12/13,12/14,Lawyer,06/14,08/18,Junior SWE,12/19,08/13
+485,Providence Tech Institute,3.04,Master's,Chicago,N/A,0,0,0,1,Lawyer,02/12,04/10,Research Assistant,06/14,11/13,N/A,09/17,05/13
+486,Providence University,3.44,Master's,Chicago,F,0,0,N/A,0,Data Scientist,10/14,09/15,Junior SWE,03/16,10/15,Junior SWE,06/17,07/16
+487,Providence State University,3.55,PhD,Miami,M,0,0,0,0,Senior SWE,05/17,01/19,ML Engineer,11/15,03/13,ML Engineer,08/14,08/14
+488,State Providence College,3.85,Bachelor's,Miami,M,0,1,0,0,ML Engineer,02/18,05/14,Senior SWE,04/12,03/14,Research Assistant,12/17,03/15
+489,Providence University,3.61,PhD,Boston,N/A,1,0,1,0,Research Assistant,07/15,07/15,Data Scientist,08/16,02/14,Senior SWE,04/13,05/12
+490,Providence School,3.14,PhD,Boston,M,0,0,1,3,Data Scientist,09/14,07/14,Research Assistant,08/17,07/17,Data Scientist,08/14,04/18
+491,Providence Tech Institute,3.65,PhD,Providence,M,0,0,0,0,ML Engineer,04/12,01/17,Data Scientist,07/12,01/10,ML Engineer,08/18,02/11
+492,Providence School,3.17,Master's,Providence,N/A,1,0,0,0,Lawyer,11/19,10/15,Senior SWE,01/15,12/11,Senior SWE,07/19,12/16
+493,Providence Tech Institute,3.99,PhD,Chicago,F,0,1,0,0,Lawyer,05/12,03/16,Data Scientist,02/17,01/11,ML Engineer,01/15,09/17
+494,Providence Tech Institute,3.05,PhD,Chicago,F,0,0,N/A,0,Junior SWE,01/11,05/17,Senior SWE,08/14,06/12,ML Engineer,05/11,07/10
+495,Providence State University,2.61,Master's,Miami,N/A,0,0,N/A,0,Junior SWE,10/18,08/10,ML Engineer,09/10,02/17,Junior SWE,10/14,03/10
+496,Providence City College,3.57,Master's,Miami,M,0,0,0,3,Junior SWE,07/18,05/14,ML Engineer,01/13,04/14,Senior SWE,04/15,02/16
+497,State Providence College,2.95,Master's,Providence,F,0,1,0,3,Data Scientist,05/14,08/17,Data Scientist,11/17,01/10,Data Scientist,09/12,05/14
+498,Providence University,3.56,PhD,Providence,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+499,Providence University,2.61,Bachelor's,Providence,M,0,0,0,3,Research Assistant,11/19,05/15,Junior SWE,01/17,06/17,N/A,03/18,04/18
+500,State Providence College,3.98,Master's,New York,F,0,0,0,1,Data Scientist,10/11,05/14,Data Scientist,08/14,12/15,Junior SWE,07/18,01/12
+501,Providence Tech Institute,3.69,Bachelor's,New York,M,0,0,0,0,Research Assistant,01/11,08/19,Research Assistant,09/15,05/18,ML Engineer,06/13,08/12
+502,Providence School,3.53,Master's,Los Angeles,F,0,1,0,0,Data Scientist,12/15,02/12,Data Scientist,10/13,03/17,Research Assistant,07/12,01/19
+503,Providence City College,3.46,PhD,Providence,M,0,0,1,0,Senior SWE,09/14,12/17,Junior SWE,07/11,03/17,Lawyer,11/13,07/14
+504,Providence State University,2.71,PhD,Boston,F,0,0,0,1,Research Assistant,10/18,08/15,ML Engineer,01/17,06/19,ML Engineer,08/11,04/11
+505,Providence University,2.72,Master's,New York,F,0,0,0,0,Data Scientist,11/16,03/19,Research Assistant,10/17,10/12,Junior SWE,07/13,04/16
+506,Providence University,2.62,Master's,Chicago,M,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+507,Providence Tech Institute,3.65,Master's,New York,M,0,0,0,0,Lawyer,09/15,11/18,Data Scientist,05/16,06/15,Junior SWE,04/11,12/15
+508,Providence School,3.57,Master's,Los Angeles,M,0,0,0,0,Data Scientist,02/18,02/18,Senior SWE,07/19,05/18,ML Engineer,10/15,06/13
+509,Providence University,3.8,Master's,Providence,F,0,0,1,0,Data Scientist,01/14,11/13,Junior SWE,03/14,06/11,Lawyer,12/10,02/10
+510,State Providence College,3.48,PhD,Boston,N/A,0,1,0,0,Junior SWE,02/18,12/11,Junior SWE,05/15,02/15,Research Assistant,07/18,06/10
+511,Providence State University,3.09,PhD,New York,F,0,1,0,0,Junior SWE,11/10,11/13,Lawyer,06/10,01/15,N/A,05/11,04/18
+512,Providence School,3.85,Master's,Providence,M,0,0,0,0,ML Engineer,10/19,07/12,ML Engineer,08/13,07/11,Research Assistant,05/15,09/19
+513,Providence City College,3.42,Master's,New York,N/A,0,1,0,1,Data Scientist,06/18,10/14,ML Engineer,11/16,04/14,Junior SWE,02/15,02/12
+514,Providence State University,2.57,Master's,Los Angeles,F,0,0,0,0,Research Assistant,07/10,01/16,Data Scientist,11/11,10/13,Senior SWE,12/15,02/19
+515,Providence State University,3.85,PhD,Miami,F,0,0,1,3,Senior SWE,04/11,01/14,Research Assistant,12/14,05/16,N/A,11/15,09/17
+516,Providence City College,3.81,Master's,Boston,F,0,0,1,0,Junior SWE,06/11,10/14,Junior SWE,10/17,08/19,Lawyer,07/19,08/15
+517,Providence City College,3.64,PhD,Miami,M,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+518,Providence State University,3.89,PhD,Providence,M,0,0,1,1,Lawyer,06/19,03/11,ML Engineer,03/15,06/15,Junior SWE,02/16,02/14
+519,State Providence College,3.1,Bachelor's,Chicago,M,0,1,0,1,Research Assistant,09/19,05/12,Senior SWE,02/11,08/10,Senior SWE,04/17,10/12
+520,Providence City College,3.77,Master's,Miami,M,0,0,0,0,Data Scientist,07/19,02/16,Lawyer,11/15,12/16,ML Engineer,06/17,03/15
+521,State Providence College,3.9,Master's,Chicago,M,0,0,0,3,Junior SWE,05/15,05/19,Lawyer,05/19,10/10,Research Assistant,03/10,07/17
+522,State Providence College,3.69,Master's,Miami,M,0,0,0,0,Data Scientist,03/17,05/16,Senior SWE,01/19,04/17,Data Scientist,02/18,04/18
+523,Providence State University,3.6,PhD,Los Angeles,F,1,1,0,0,Senior SWE,02/14,06/15,Senior SWE,02/16,12/11,Junior SWE,10/12,04/10
+524,State Providence College,3.03,Master's,Boston,M,0,1,0,0,ML Engineer,06/18,06/16,Data Scientist,12/17,03/12,N/A,03/17,09/12
+525,Providence Tech Institute,3.01,PhD,Miami,M,0,1,1,3,Lawyer,08/10,09/19,Junior SWE,10/19,08/11,Lawyer,03/18,10/14
+526,Providence State University,3.85,Bachelor's,Los Angeles,M,0,0,0,2,Senior SWE,04/16,12/18,Junior SWE,02/11,11/16,ML Engineer,03/11,09/17
+527,Providence Tech Institute,2.77,Master's,Chicago,F,0,0,0,0,Data Scientist,09/15,05/13,Lawyer,03/14,07/11,Research Assistant,05/15,06/14
+528,Providence University,2.56,Master's,Boston,F,0,0,0,3,Data Scientist,07/14,08/16,ML Engineer,04/13,11/14,Lawyer,06/14,01/12
+529,Providence City College,3.46,PhD,Los Angeles,M,0,1,1,3,Data Scientist,07/13,11/14,ML Engineer,05/11,07/11,Junior SWE,04/15,08/18
+530,Providence School,3.01,Master's,Providence,F,0,1,0,0,Junior SWE,07/17,08/15,Data Scientist,10/14,03/10,Senior SWE,09/10,02/12
+531,Providence University,3.59,PhD,Los Angeles,F,0,1,1,0,ML Engineer,01/19,02/17,Research Assistant,03/13,10/14,Senior SWE,04/14,02/19
+532,Providence State University,4.0,PhD,Miami,M,0,0,0,1,Lawyer,06/19,06/12,ML Engineer,06/16,05/15,Senior SWE,01/16,01/16
+533,Providence City College,2.83,Bachelor's,Providence,F,0,1,0,0,ML Engineer,09/11,01/17,Research Assistant,02/10,12/17,Research Assistant,12/17,07/17
+534,Providence Tech Institute,2.98,Bachelor's,Miami,F,0,0,0,1,Data Scientist,11/13,11/19,Lawyer,09/13,11/19,N/A,12/13,09/12
+535,Providence Tech Institute,3.39,Master's,Chicago,M,0,0,0,3,Junior SWE,03/15,08/18,Lawyer,05/16,01/13,Research Assistant,05/19,11/15
+536,Providence School,3.5,PhD,Miami,F,0,1,0,2,ML Engineer,07/13,08/10,Research Assistant,02/15,10/17,N/A,07/11,12/17
+537,Providence City College,3.99,PhD,Boston,F,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+538,Providence State University,3.24,PhD,New York,N/A,0,0,0,0,Junior SWE,05/16,02/15,Data Scientist,05/13,01/13,ML Engineer,08/14,06/15
+539,Providence State University,2.83,PhD,Chicago,F,1,1,1,0,Senior SWE,02/15,03/11,Research Assistant,08/14,01/19,Senior SWE,07/17,06/15
+540,State Providence College,3.82,PhD,Providence,M,0,1,0,3,Junior SWE,11/16,02/16,Lawyer,09/11,12/11,ML Engineer,03/16,04/12
+541,Providence City College,3.57,Bachelor's,Los Angeles,F,0,0,0,4,Lawyer,11/14,02/15,Junior SWE,03/12,10/19,N/A,08/18,03/18
+542,Providence State University,3.43,PhD,New York,M,0,0,1,0,Data Scientist,11/14,02/14,Data Scientist,06/12,11/11,Junior SWE,07/17,11/16
+543,Providence University,3.8,Bachelor's,Los Angeles,F,0,0,0,0,Data Scientist,01/11,06/19,Research Assistant,07/12,02/16,Research Assistant,02/17,04/18
+544,Providence Tech Institute,2.61,Master's,Boston,F,0,0,0,0,ML Engineer,02/17,12/17,Data Scientist,12/11,02/12,Research Assistant,06/16,06/18
+545,Providence Tech Institute,3.18,Master's,New York,F,0,0,0,0,Junior SWE,10/13,08/16,Senior SWE,03/19,08/16,Junior SWE,10/11,08/19
+546,State Providence College,3.83,Bachelor's,New York,M,0,1,0,0,Data Scientist,08/12,03/19,ML Engineer,03/14,01/10,Data Scientist,06/10,11/11
+547,Providence State University,2.62,PhD,Los Angeles,F,0,0,0,0,ML Engineer,07/15,07/16,ML Engineer,08/17,07/10,Lawyer,06/17,04/10
+548,Providence School,3.36,PhD,Boston,N/A,0,0,0,1,Data Scientist,01/16,03/13,Junior SWE,02/16,01/11,N/A,10/19,06/17
+549,State Providence College,2.97,Master's,New York,F,0,0,0,1,Junior SWE,06/18,07/18,Research Assistant,02/19,05/14,Junior SWE,12/18,07/16
+550,Providence City College,3.35,Master's,Miami,F,0,0,0,3,Senior SWE,04/19,12/18,Research Assistant,09/17,01/15,ML Engineer,07/15,07/13
+551,Providence City College,2.64,Master's,Miami,F,1,1,0,0,Data Scientist,11/11,01/10,ML Engineer,10/12,12/12,ML Engineer,02/10,09/10
+552,Providence City College,3.31,PhD,Los Angeles,F,0,0,0,3,Senior SWE,05/19,03/10,ML Engineer,07/11,07/18,ML Engineer,09/19,02/18
+553,Providence University,3.27,Master's,Los Angeles,F,1,0,0,0,Lawyer,02/12,05/14,Lawyer,05/11,09/11,Senior SWE,06/18,09/12
+554,Providence City College,2.6,Bachelor's,New York,M,0,0,0,0,Lawyer,11/15,05/11,Junior SWE,05/14,08/11,Lawyer,11/12,01/11
+555,Providence University,2.85,PhD,Boston,M,1,0,0,1,Lawyer,10/10,07/14,Junior SWE,10/12,08/11,Research Assistant,04/17,11/15
+556,State Providence College,2.7,Bachelor's,Chicago,M,0,0,0,2,ML Engineer,02/15,12/10,ML Engineer,02/11,02/16,Data Scientist,03/17,07/10
+557,State Providence College,3.21,Master's,Los Angeles,M,0,0,1,0,Lawyer,05/10,05/19,ML Engineer,04/12,04/15,Lawyer,04/16,02/14
+558,Providence City College,2.93,Master's,Chicago,M,0,0,0,0,Junior SWE,10/19,03/18,ML Engineer,11/10,01/10,Research Assistant,04/10,04/13
+559,Providence Tech Institute,3.28,PhD,Providence,F,0,1,0,0,ML Engineer,08/16,11/19,Research Assistant,10/19,01/19,Lawyer,10/17,05/14
+560,State Providence College,3.35,Bachelor's,Los Angeles,M,0,1,1,0,Junior SWE,01/16,02/10,Research Assistant,02/13,09/19,Junior SWE,04/16,09/16
+561,Providence Tech Institute,2.51,Master's,Providence,M,0,0,0,0,Junior SWE,02/14,11/12,Data Scientist,08/18,08/13,N/A,11/17,07/19
+562,Providence University,3.8,Bachelor's,Los Angeles,M,0,0,0,3,Junior SWE,08/19,03/16,Junior SWE,01/14,07/17,Senior SWE,11/14,06/17
+563,Providence University,2.72,PhD,Providence,F,0,0,0,1,ML Engineer,01/12,03/12,Data Scientist,06/14,03/15,Junior SWE,02/11,02/13
+564,Providence University,3.76,PhD,Providence,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+565,Providence Tech Institute,3.32,Bachelor's,Los Angeles,F,0,0,1,0,Junior SWE,03/13,07/11,ML Engineer,06/11,06/16,Data Scientist,05/19,09/13
+566,State Providence College,2.84,Bachelor's,Boston,F,0,1,0,0,Research Assistant,02/13,08/11,ML Engineer,09/12,07/11,Junior SWE,08/14,04/10
+567,Providence State University,3.67,Master's,Providence,M,0,0,0,3,Junior SWE,03/11,03/16,Junior SWE,02/15,07/17,Senior SWE,10/13,08/16
+568,Providence State University,3.47,Master's,New York,N/A,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+569,Providence School,3.48,Bachelor's,Los Angeles,F,0,0,0,1,Senior SWE,01/15,04/12,Lawyer,09/18,05/14,ML Engineer,05/15,02/14
+570,Providence School,2.97,Bachelor's,Miami,N/A,0,0,0,0,Lawyer,04/15,05/11,Lawyer,01/14,12/11,Junior SWE,05/18,04/15
+571,Providence City College,3.1,PhD,Miami,M,0,1,0,3,Lawyer,04/14,12/10,Junior SWE,12/16,03/16,Senior SWE,01/17,08/18
+572,Providence Tech Institute,3.3,Bachelor's,Providence,F,0,1,0,3,Data Scientist,03/18,09/15,Junior SWE,10/18,07/14,ML Engineer,09/13,12/17
+573,State Providence College,3.06,PhD,Miami,F,0,0,0,3,Research Assistant,12/11,03/13,Data Scientist,07/18,11/17,ML Engineer,07/13,04/17
+574,Providence University,3.05,PhD,Boston,M,1,0,0,0,ML Engineer,04/18,11/19,Research Assistant,10/14,04/16,ML Engineer,11/15,08/11
+575,Providence State University,3.77,PhD,Boston,F,0,0,0,0,ML Engineer,04/13,02/12,Research Assistant,07/14,05/14,Junior SWE,04/11,08/10
+576,Providence School,3.94,Master's,New York,M,0,1,0,0,Senior SWE,09/14,03/17,Lawyer,06/11,06/17,Research Assistant,10/16,03/13
+577,State Providence College,3.22,Master's,New York,M,0,1,0,3,Senior SWE,05/13,08/18,Senior SWE,10/18,01/17,Research Assistant,01/17,10/19
+578,Providence State University,3.8,Master's,Miami,M,0,0,0,0,Senior SWE,06/19,04/16,Data Scientist,02/14,02/18,Data Scientist,02/19,07/15
+579,State Providence College,3.7,Master's,Miami,F,0,0,1,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+580,Providence City College,3.23,PhD,Los Angeles,F,0,0,0,0,Lawyer,05/18,11/15,Senior SWE,03/11,01/13,Lawyer,05/14,02/18
+581,Providence University,3.49,PhD,Boston,N/A,0,1,0,3,ML Engineer,05/13,12/10,Research Assistant,03/18,03/10,ML Engineer,10/14,02/11
+582,Providence Tech Institute,2.6,Bachelor's,Los Angeles,F,0,1,0,0,Data Scientist,11/11,11/18,Research Assistant,04/10,05/17,Junior SWE,01/13,12/16
+583,Providence State University,3.46,Master's,Boston,M,0,0,0,0,Research Assistant,07/11,03/16,Senior SWE,02/13,11/13,N/A,09/11,09/11
+584,Providence State University,2.87,Bachelor's,Boston,F,0,0,0,0,Junior SWE,10/13,12/11,Junior SWE,04/15,06/10,Senior SWE,02/16,01/13
+585,State Providence College,3.91,PhD,Chicago,M,0,1,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+586,Providence City College,3.5,Bachelor's,Boston,M,0,1,0,3,Data Scientist,03/14,05/19,Lawyer,10/13,09/13,Lawyer,11/15,01/16
+587,State Providence College,3.43,Bachelor's,Providence,F,0,0,0,2,Lawyer,11/13,03/17,ML Engineer,07/18,03/17,Junior SWE,12/12,02/12
+588,State Providence College,3.86,Master's,Providence,F,0,1,0,4,Junior SWE,06/11,04/16,Data Scientist,12/18,03/13,Senior SWE,08/14,11/16
+589,Providence City College,3.62,Bachelor's,New York,M,0,0,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+590,Providence University,3.13,PhD,Providence,M,0,1,0,2,Junior SWE,07/16,09/13,Junior SWE,03/15,05/10,Research Assistant,07/13,09/16
+591,Providence City College,3.68,PhD,Miami,M,0,0,1,0,Data Scientist,10/18,04/12,Lawyer,08/17,04/18,ML Engineer,10/15,08/12
+592,Providence State University,3.9,Bachelor's,New York,F,0,0,0,0,Junior SWE,04/13,04/19,Junior SWE,02/13,11/16,N/A,09/17,03/10
+593,Providence Tech Institute,3.92,Bachelor's,Los Angeles,M,0,1,0,0,Research Assistant,08/12,02/18,Data Scientist,04/17,06/17,Research Assistant,04/18,08/14
+594,Providence Tech Institute,2.87,Master's,Chicago,F,0,0,0,0,Research Assistant,07/16,01/13,ML Engineer,06/10,11/18,Lawyer,06/19,12/11
+595,Providence Tech Institute,3.32,Master's,Providence,M,0,0,0,0,Senior SWE,02/15,05/15,Junior SWE,06/12,06/18,Data Scientist,01/10,04/16
+596,State Providence College,3.69,Master's,Miami,M,0,0,0,0,Data Scientist,07/13,10/15,Junior SWE,02/18,07/19,ML Engineer,11/13,12/14
+597,Providence University,3.97,Master's,New York,F,0,0,0,0,Research Assistant,01/13,11/19,Data Scientist,09/15,05/18,Senior SWE,03/11,04/11
+598,State Providence College,2.63,Bachelor's,Los Angeles,M,0,0,0,4,Senior SWE,07/15,04/10,Lawyer,11/10,10/16,Research Assistant,05/16,05/16
+599,Providence City College,3.66,Master's,Miami,F,1,1,0,0,Data Scientist,04/13,08/18,Data Scientist,01/16,09/10,Lawyer,09/10,01/12
+600,Providence Tech Institute,3.18,Bachelor's,New York,M,0,1,1,0,Junior SWE,03/14,10/14,ML Engineer,01/11,08/12,N/A,04/18,10/17
+601,Providence University,3.76,Master's,New York,F,0,0,0,0,ML Engineer,04/16,06/13,Research Assistant,12/14,11/11,N/A,04/16,04/15
+602,State Providence College,3.63,Master's,Miami,M,0,1,0,1,Senior SWE,04/11,02/15,Lawyer,05/11,03/13,Junior SWE,09/10,03/13
+603,Providence School,3.18,Bachelor's,Los Angeles,M,0,0,0,0,Research Assistant,09/15,01/11,ML Engineer,02/19,08/16,N/A,07/10,05/16
+604,Providence School,3.89,PhD,Los Angeles,F,0,0,0,1,Junior SWE,11/13,07/11,Data Scientist,11/19,06/15,Junior SWE,05/16,12/17
+605,Providence University,3.05,PhD,Boston,F,0,0,0,0,Senior SWE,05/10,01/17,Lawyer,11/18,07/10,Senior SWE,09/16,12/13
+606,Providence Tech Institute,3.09,Master's,Boston,F,0,0,0,0,Data Scientist,12/18,01/15,Research Assistant,07/14,04/14,ML Engineer,06/13,08/15
+607,Providence Tech Institute,3.63,Master's,New York,N/A,0,1,0,0,Data Scientist,05/17,02/18,Data Scientist,12/19,10/15,Research Assistant,09/15,12/13
+608,Providence Tech Institute,2.9,PhD,New York,F,0,0,0,4,ML Engineer,08/14,05/17,Research Assistant,08/10,02/12,Lawyer,06/10,08/19
+609,Providence Tech Institute,3.66,Bachelor's,Providence,M,0,0,0,0,Lawyer,12/19,03/17,Junior SWE,07/19,04/10,Data Scientist,04/13,06/18
+610,Providence Tech Institute,3.7,PhD,New York,M,1,0,0,1,Junior SWE,08/19,03/17,Research Assistant,07/17,04/14,Research Assistant,03/12,05/10
+611,Providence City College,3.59,Master's,New York,F,0,0,0,0,Research Assistant,11/10,06/10,Junior SWE,02/10,10/17,ML Engineer,02/13,07/17
+612,Providence State University,3.06,Bachelor's,Providence,F,0,0,0,3,Research Assistant,04/13,06/11,Lawyer,07/11,09/17,Data Scientist,12/15,09/19
+613,Providence Tech Institute,3.2,Bachelor's,Boston,F,1,1,0,0,Lawyer,10/10,03/10,Research Assistant,07/18,02/13,Lawyer,01/10,02/16
+614,State Providence College,3.33,PhD,New York,M,0,0,0,0,Data Scientist,05/18,04/13,Lawyer,11/17,05/19,Junior SWE,03/18,01/15
+615,Providence University,2.69,Master's,Los Angeles,N/A,0,0,0,0,Senior SWE,08/10,10/12,ML Engineer,03/14,11/13,Junior SWE,01/10,04/14
+616,Providence City College,3.06,Bachelor's,Miami,F,0,1,0,0,Research Assistant,12/16,10/15,Data Scientist,11/14,07/18,Junior SWE,02/11,12/16
+617,Providence State University,2.75,Bachelor's,Boston,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+618,Providence Tech Institute,2.91,PhD,Providence,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+619,State Providence College,3.85,Master's,Providence,F,0,0,0,2,Research Assistant,05/12,06/15,Research Assistant,11/10,01/10,ML Engineer,06/19,08/18
+620,Providence Tech Institute,2.58,Bachelor's,Boston,M,0,0,0,1,Research Assistant,09/12,07/16,Data Scientist,06/16,01/18,Lawyer,07/14,07/14
+621,Providence School,3.33,PhD,Boston,F,0,0,0,3,ML Engineer,07/17,11/17,Senior SWE,04/11,11/14,ML Engineer,02/19,04/10
+622,Providence University,3.15,Master's,Chicago,F,0,0,0,0,Senior SWE,10/13,01/18,ML Engineer,10/17,02/12,Senior SWE,12/14,02/16
+623,Providence School,3.5,PhD,Chicago,F,0,0,0,3,Junior SWE,11/15,07/13,Lawyer,02/18,04/15,Junior SWE,06/11,05/15
+624,Providence Tech Institute,3.94,PhD,Boston,N/A,0,0,0,0,Data Scientist,11/11,04/14,Research Assistant,10/19,07/19,N/A,07/17,07/15
+625,Providence School,3.19,PhD,Miami,F,0,0,0,0,Data Scientist,02/14,02/10,Junior SWE,06/16,04/12,N/A,04/16,01/17
+626,Providence City College,3.26,Master's,Chicago,F,0,0,1,0,Research Assistant,12/19,09/17,Data Scientist,12/17,09/17,ML Engineer,03/18,04/13
+627,Providence City College,2.68,Master's,Los Angeles,F,0,0,0,1,Senior SWE,07/17,08/10,ML Engineer,10/19,04/18,Research Assistant,02/13,11/10
+628,State Providence College,3.87,Master's,New York,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+629,Providence City College,3.08,Master's,Los Angeles,F,0,1,0,4,Senior SWE,06/13,05/15,Research Assistant,04/18,07/18,Lawyer,08/10,05/18
+630,Providence State University,2.56,Master's,Miami,F,0,1,0,1,Junior SWE,11/10,11/14,ML Engineer,06/17,08/13,ML Engineer,07/18,05/17
+631,State Providence College,3.29,PhD,Chicago,F,0,0,0,1,ML Engineer,09/19,05/15,Lawyer,04/16,09/13,Research Assistant,03/19,10/15
+632,State Providence College,3.77,Bachelor's,New York,M,0,0,0,0,Junior SWE,01/16,03/19,Senior SWE,09/19,01/11,Data Scientist,11/15,08/11
+633,Providence University,3.39,Bachelor's,New York,F,0,0,0,0,Lawyer,01/19,05/12,ML Engineer,08/10,12/18,ML Engineer,03/10,08/11
+634,Providence City College,3.4,Bachelor's,New York,F,0,0,0,1,Lawyer,01/10,08/13,Research Assistant,05/17,02/10,Senior SWE,08/10,06/18
+635,Providence University,2.53,PhD,Boston,M,0,0,0,0,Research Assistant,02/15,02/13,Research Assistant,03/17,09/10,Data Scientist,06/12,04/13
+636,Providence School,3.96,Master's,Los Angeles,M,0,1,0,3,Lawyer,08/13,05/17,Data Scientist,05/10,09/15,Junior SWE,04/13,04/19
+637,Providence Tech Institute,3.11,Bachelor's,Miami,M,0,0,0,0,Data Scientist,09/17,06/11,ML Engineer,01/11,06/15,Data Scientist,04/13,10/12
+638,Providence School,2.71,PhD,Los Angeles,N/A,0,0,0,3,Lawyer,09/15,04/16,ML Engineer,04/11,12/11,Junior SWE,07/13,07/10
+639,Providence State University,2.71,PhD,Boston,F,0,1,1,1,ML Engineer,08/16,11/10,Data Scientist,11/17,05/17,Junior SWE,08/17,11/13
+640,Providence Tech Institute,3.5,Master's,Miami,M,0,0,1,3,ML Engineer,06/16,05/10,ML Engineer,06/19,09/15,Junior SWE,11/18,12/13
+641,State Providence College,3.15,Master's,Chicago,M,1,0,0,3,Junior SWE,04/13,01/15,Junior SWE,11/15,08/12,Research Assistant,08/15,05/12
+642,State Providence College,2.58,Bachelor's,Chicago,M,0,1,0,0,Research Assistant,04/15,07/10,Senior SWE,09/14,10/17,Senior SWE,03/10,11/13
+643,Providence State University,2.63,PhD,Chicago,F,0,0,0,0,Data Scientist,05/11,11/14,Lawyer,03/13,06/16,N/A,11/16,02/10
+644,Providence Tech Institute,3.14,Master's,New York,M,0,0,0,2,Research Assistant,01/16,05/14,Research Assistant,12/17,10/19,ML Engineer,07/11,04/10
+645,Providence State University,3.69,Master's,Boston,F,0,0,0,0,ML Engineer,07/19,01/13,Senior SWE,03/19,05/11,Junior SWE,09/11,09/16
+646,Providence City College,2.71,Master's,Los Angeles,F,0,0,0,0,Data Scientist,08/12,11/18,ML Engineer,07/18,02/16,N/A,09/15,07/14
+647,Providence School,2.67,Bachelor's,New York,F,0,0,0,3,Data Scientist,01/18,01/15,ML Engineer,09/12,02/18,Senior SWE,12/18,09/11
+648,Providence State University,3.21,PhD,Los Angeles,M,0,0,0,0,ML Engineer,06/13,11/12,Senior SWE,10/17,11/16,ML Engineer,11/17,07/15
+649,Providence City College,3.29,Master's,Miami,F,0,0,0,0,ML Engineer,07/10,09/19,Research Assistant,11/19,05/14,Junior SWE,01/12,05/13
+650,Providence University,3.27,Bachelor's,Boston,M,0,0,N/A,1,ML Engineer,03/13,09/12,Research Assistant,08/16,12/16,N/A,05/19,02/14
+651,Providence State University,3.25,Master's,Miami,M,0,0,0,4,ML Engineer,01/17,01/16,Senior SWE,02/13,04/16,N/A,09/17,02/12
+652,Providence Tech Institute,3.83,Bachelor's,Boston,F,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+653,Providence School,3.09,Master's,Providence,F,0,0,0,0,Research Assistant,02/18,12/14,Data Scientist,01/19,10/19,Junior SWE,09/11,09/11
+654,Providence University,2.55,PhD,Providence,N/A,0,1,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+655,Providence City College,2.51,Bachelor's,Providence,M,0,0,0,1,Lawyer,12/19,11/13,Senior SWE,12/17,06/17,N/A,08/13,04/14
+656,Providence School,3.1,Master's,Boston,F,0,0,0,3,Senior SWE,12/10,07/15,Junior SWE,05/17,12/19,Research Assistant,12/10,11/13
+657,State Providence College,3.84,Master's,Chicago,M,0,0,0,0,Research Assistant,02/18,08/18,Senior SWE,12/12,03/16,Research Assistant,06/14,06/19
+658,Providence City College,3.57,Master's,Boston,M,0,0,0,0,Junior SWE,12/14,05/11,Senior SWE,03/19,10/10,Data Scientist,03/10,08/18
+659,Providence University,3.36,Bachelor's,Providence,M,0,0,0,3,Senior SWE,10/19,07/18,Senior SWE,04/18,01/16,Senior SWE,01/19,08/17
+660,Providence State University,3.55,Bachelor's,Miami,M,0,1,1,0,Junior SWE,04/17,05/16,ML Engineer,04/13,03/12,Research Assistant,11/14,11/15
+661,Providence City College,2.75,Master's,New York,M,0,0,0,3,Senior SWE,07/14,03/10,Senior SWE,01/15,10/10,Junior SWE,03/15,11/11
+662,Providence School,2.95,Bachelor's,Miami,M,0,1,0,3,Junior SWE,05/14,11/16,Senior SWE,03/15,08/12,N/A,04/18,05/11
+663,Providence State University,3.69,Master's,Los Angeles,M,0,1,0,3,Research Assistant,01/17,01/13,Research Assistant,07/15,05/10,Lawyer,04/15,07/12
+664,Providence State University,2.52,PhD,Boston,M,0,0,0,0,Lawyer,02/13,10/13,ML Engineer,01/19,08/17,ML Engineer,09/17,12/15
+665,Providence School,2.96,Bachelor's,Providence,M,1,1,0,0,Lawyer,11/14,10/15,Lawyer,04/18,08/17,Junior SWE,08/19,05/13
+666,Providence State University,3.93,PhD,Los Angeles,M,1,0,0,0,Lawyer,11/18,10/12,ML Engineer,11/18,10/10,Lawyer,10/19,05/18
+667,Providence University,3.42,Bachelor's,Boston,M,0,1,0,0,ML Engineer,05/19,03/18,Research Assistant,10/13,10/10,ML Engineer,07/17,08/10
+668,Providence School,3.6,Bachelor's,Chicago,N/A,0,1,0,0,Data Scientist,05/13,03/13,Lawyer,01/16,04/18,Research Assistant,05/14,05/16
+669,Providence Tech Institute,3.09,PhD,Chicago,F,0,1,0,0,Junior SWE,08/17,06/16,Junior SWE,10/16,10/13,N/A,07/16,11/11
+670,Providence City College,2.66,Bachelor's,Miami,M,0,1,1,3,Junior SWE,03/10,10/19,Junior SWE,07/18,11/14,N/A,12/10,07/16
+671,Providence State University,3.52,Bachelor's,Boston,N/A,0,0,0,2,Research Assistant,05/15,12/10,ML Engineer,01/18,04/14,N/A,03/19,12/19
+672,State Providence College,3.14,Bachelor's,Miami,M,0,0,0,2,ML Engineer,04/13,04/12,Research Assistant,12/13,08/10,Junior SWE,03/19,05/17
+673,Providence City College,2.72,Bachelor's,Boston,M,0,1,0,0,Lawyer,11/10,03/13,Data Scientist,05/16,03/11,Research Assistant,02/18,01/17
+674,Providence School,3.84,Master's,Boston,N/A,0,1,0,0,Research Assistant,08/19,06/15,Data Scientist,11/19,11/15,N/A,08/15,04/12
+675,State Providence College,2.88,PhD,New York,M,0,0,0,1,Research Assistant,12/16,03/13,Research Assistant,12/10,05/19,Junior SWE,04/11,11/15
+676,Providence City College,3.02,Master's,New York,M,0,0,0,0,Junior SWE,10/15,05/19,Research Assistant,03/10,03/16,ML Engineer,05/18,03/14
+677,Providence Tech Institute,2.81,PhD,Chicago,F,0,1,0,3,Lawyer,12/14,02/13,Lawyer,04/11,08/12,Junior SWE,05/18,05/17
+678,Providence City College,3.09,Master's,Providence,M,0,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+679,Providence Tech Institute,3.42,Master's,Chicago,F,0,0,0,1,Senior SWE,07/13,07/17,Junior SWE,08/11,09/17,Lawyer,02/16,05/14
+680,State Providence College,2.81,Bachelor's,New York,M,0,0,0,0,Lawyer,07/18,08/14,Junior SWE,03/18,07/13,ML Engineer,06/11,05/13
+681,Providence School,3.04,PhD,Chicago,M,0,1,0,3,Junior SWE,05/13,10/12,Data Scientist,12/16,10/14,Senior SWE,05/11,03/12
+682,State Providence College,2.52,Master's,Providence,M,0,1,0,0,Research Assistant,12/12,04/12,Junior SWE,06/12,11/15,Junior SWE,11/15,10/16
+683,Providence University,2.74,Master's,Boston,F,0,0,0,0,Lawyer,12/11,11/18,ML Engineer,12/14,05/16,Lawyer,03/10,11/13
+684,Providence State University,3.86,Bachelor's,Los Angeles,F,0,0,0,0,Lawyer,09/14,10/18,ML Engineer,08/16,03/13,Research Assistant,01/13,10/17
+685,Providence City College,3.45,PhD,Los Angeles,F,0,0,0,3,Data Scientist,11/19,02/15,Junior SWE,04/13,02/15,ML Engineer,05/13,04/19
+686,Providence Tech Institute,3.26,Bachelor's,New York,F,0,0,0,3,Lawyer,07/14,10/13,Lawyer,01/19,11/13,Senior SWE,02/18,11/17
+687,Providence Tech Institute,3.27,PhD,New York,M,0,0,0,4,Research Assistant,02/19,03/12,Senior SWE,05/18,02/19,N/A,12/19,03/11
+688,Providence Tech Institute,3.46,Master's,Chicago,F,0,0,0,0,ML Engineer,10/17,01/16,Research Assistant,09/12,07/19,Lawyer,09/11,10/19
+689,Providence University,2.82,Bachelor's,Chicago,F,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+690,Providence University,2.55,Master's,Miami,F,0,0,1,1,Lawyer,06/13,12/15,ML Engineer,11/13,11/12,Lawyer,07/10,07/16
+691,Providence University,3.12,Bachelor's,Providence,F,0,0,0,3,Research Assistant,01/10,10/19,Junior SWE,12/13,04/19,Data Scientist,11/11,04/10
+692,State Providence College,3.86,Master's,Los Angeles,F,0,0,0,0,Data Scientist,06/17,04/14,Data Scientist,02/15,06/17,Senior SWE,04/10,12/12
+693,State Providence College,3.27,PhD,Miami,M,0,1,0,0,ML Engineer,02/16,07/18,ML Engineer,04/11,05/17,ML Engineer,11/11,06/10
+694,Providence State University,3.82,Master's,Chicago,M,0,1,0,3,ML Engineer,12/16,02/10,Research Assistant,05/12,02/14,Research Assistant,06/12,10/11
+695,State Providence College,2.69,Bachelor's,Boston,F,1,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+696,Providence City College,2.91,Master's,Miami,F,0,0,0,0,Research Assistant,08/16,09/16,Data Scientist,07/12,05/13,N/A,03/16,12/14
+697,Providence Tech Institute,3.46,PhD,Boston,N/A,0,0,0,0,Lawyer,12/17,07/18,Research Assistant,07/17,05/16,Research Assistant,01/12,03/17
+698,Providence University,2.54,PhD,Miami,F,0,0,0,1,Senior SWE,09/10,06/18,Senior SWE,02/15,05/13,Junior SWE,11/10,11/17
+699,Providence City College,2.73,Master's,Miami,N/A,0,0,0,2,Research Assistant,11/17,12/12,Lawyer,08/17,09/10,N/A,02/16,02/12
+700,Providence Tech Institute,2.67,Bachelor's,New York,N/A,0,1,0,0,Junior SWE,03/12,06/16,Research Assistant,02/15,03/13,N/A,08/15,11/10
+701,Providence University,3.28,PhD,Los Angeles,N/A,1,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+702,State Providence College,3.82,Bachelor's,New York,F,0,0,0,0,Data Scientist,05/19,01/10,Research Assistant,02/12,05/19,ML Engineer,08/12,06/16
+703,Providence State University,2.5,PhD,New York,F,1,0,0,0,Senior SWE,11/13,05/15,Research Assistant,08/19,11/14,ML Engineer,04/10,07/17
+704,Providence School,2.58,Bachelor's,Chicago,M,0,1,0,0,Junior SWE,01/17,07/15,Research Assistant,06/11,08/19,Senior SWE,09/10,02/14
+705,Providence University,3.5,Bachelor's,Providence,N/A,0,1,0,2,Data Scientist,01/13,08/18,Data Scientist,09/13,11/11,N/A,07/13,02/16
+706,Providence City College,3.05,Bachelor's,Los Angeles,M,0,0,0,1,Junior SWE,10/18,03/17,Research Assistant,01/19,01/12,ML Engineer,04/19,08/19
+707,Providence University,3.84,Master's,Providence,M,0,0,0,1,Senior SWE,06/13,04/12,ML Engineer,05/10,03/12,N/A,10/10,08/10
+708,Providence Tech Institute,3.31,Bachelor's,Los Angeles,F,0,0,0,0,Senior SWE,01/12,08/16,Lawyer,05/10,10/15,Lawyer,04/15,08/15
+709,Providence State University,2.59,Master's,Boston,N/A,0,0,0,0,Research Assistant,03/10,09/17,ML Engineer,10/17,08/10,Research Assistant,04/12,09/13
+710,Providence State University,2.51,Bachelor's,Providence,F,0,0,0,0,Data Scientist,03/10,01/18,Junior SWE,07/10,03/13,N/A,01/14,11/15
+711,Providence State University,3.16,PhD,Boston,M,0,0,0,3,Senior SWE,08/15,08/12,Lawyer,09/10,03/18,Lawyer,06/19,09/17
+712,Providence School,3.1,PhD,Boston,F,1,0,0,0,Lawyer,10/19,11/19,Junior SWE,03/16,09/12,Lawyer,11/13,09/13
+713,Providence Tech Institute,3.22,Master's,Boston,N/A,0,0,0,0,Senior SWE,09/13,03/19,Research Assistant,09/19,12/18,Research Assistant,01/11,05/17
+714,Providence State University,3.14,Bachelor's,Miami,M,0,1,0,0,Research Assistant,10/18,11/11,Lawyer,09/17,08/14,N/A,08/12,05/19
+715,Providence Tech Institute,3.4,Bachelor's,Los Angeles,M,0,0,0,0,Lawyer,01/13,11/13,Lawyer,03/15,11/11,Research Assistant,12/19,06/18
+716,State Providence College,3.85,Bachelor's,Los Angeles,F,0,1,0,3,ML Engineer,10/12,11/13,ML Engineer,09/14,11/12,Data Scientist,05/14,05/15
+717,Providence State University,3.63,PhD,Miami,F,0,1,0,1,Data Scientist,12/14,10/13,Research Assistant,11/14,08/15,Senior SWE,02/13,04/11
+718,Providence City College,3.29,Master's,Boston,M,0,1,0,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+719,Providence School,3.29,Bachelor's,Miami,M,1,0,0,1,Research Assistant,03/19,09/12,ML Engineer,03/18,05/11,Junior SWE,06/14,03/10
+720,Providence School,3.97,PhD,Los Angeles,M,0,1,0,1,Research Assistant,11/17,11/19,Lawyer,02/18,04/13,Research Assistant,09/16,12/14
+721,Providence City College,3.91,PhD,Chicago,F,1,0,0,3,Junior SWE,05/17,06/13,ML Engineer,07/18,10/19,Data Scientist,11/19,07/13
+722,State Providence College,2.74,Bachelor's,New York,F,0,0,0,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+723,State Providence College,3.45,Master's,Providence,F,0,1,0,0,ML Engineer,01/16,02/13,Lawyer,03/15,09/19,Junior SWE,11/15,11/15
+724,Providence School,2.97,Master's,New York,M,0,0,0,0,Junior SWE,10/17,07/15,Data Scientist,06/17,02/11,Lawyer,02/11,06/19
+725,Providence University,2.8,Master's,Chicago,F,1,0,1,0,Junior SWE,05/17,10/12,ML Engineer,01/11,02/13,Data Scientist,12/17,12/18
+726,Providence School,3.91,Master's,Boston,F,0,0,0,3,Data Scientist,11/17,01/14,Junior SWE,07/11,12/17,Research Assistant,11/18,08/18
+727,Providence Tech Institute,2.63,Master's,Chicago,F,0,0,0,1,Lawyer,05/12,04/12,Senior SWE,10/10,05/15,Senior SWE,11/14,03/11
+728,Providence City College,2.54,PhD,Miami,M,0,0,0,0,Research Assistant,02/11,08/10,ML Engineer,03/16,03/19,Lawyer,02/16,12/15
+729,Providence School,3.21,PhD,New York,M,0,0,0,0,Research Assistant,04/12,01/14,Research Assistant,06/12,11/12,Senior SWE,09/19,01/12
+730,Providence School,3.3,Bachelor's,Miami,F,0,0,0,1,Junior SWE,08/10,01/16,Research Assistant,12/12,01/18,Research Assistant,04/14,01/10
+731,State Providence College,2.66,Master's,Providence,F,0,0,0,3,Senior SWE,03/13,05/10,Lawyer,04/10,05/14,Research Assistant,07/17,04/15
+732,State Providence College,3.92,Bachelor's,Boston,F,0,0,0,0,ML Engineer,07/13,07/12,Research Assistant,05/18,11/19,Research Assistant,04/15,02/16
+733,Providence University,2.64,Bachelor's,Los Angeles,F,0,0,0,0,Data Scientist,01/13,05/14,Junior SWE,06/12,10/10,Junior SWE,09/18,02/19
+734,State Providence College,3.58,Master's,Providence,M,0,0,0,1,Data Scientist,03/12,11/12,Lawyer,01/15,06/16,Lawyer,05/13,04/11
+735,Providence School,3.05,PhD,Boston,M,0,0,0,0,Lawyer,05/14,10/14,Research Assistant,08/12,02/16,ML Engineer,06/10,08/14
+736,Providence University,2.89,Bachelor's,New York,F,0,0,0,0,ML Engineer,01/16,03/18,Data Scientist,02/16,01/10,Research Assistant,05/15,12/10
+737,Providence Tech Institute,2.82,PhD,Los Angeles,M,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+738,Providence University,2.76,Bachelor's,New York,F,0,0,0,0,ML Engineer,03/15,09/12,Research Assistant,10/17,12/15,ML Engineer,10/10,03/17
+739,State Providence College,3.29,Master's,Providence,F,1,0,0,0,Data Scientist,05/13,03/19,Junior SWE,09/13,07/13,Lawyer,02/14,06/16
+740,Providence University,2.57,PhD,Miami,M,0,1,0,0,Senior SWE,08/11,01/11,Data Scientist,07/12,06/18,Research Assistant,10/16,08/10
+741,Providence School,3.66,Master's,Chicago,F,0,0,0,3,Data Scientist,08/14,01/12,Lawyer,08/14,06/11,Senior SWE,06/13,12/15
+742,Providence University,2.85,PhD,New York,N/A,1,0,0,0,Data Scientist,04/11,11/18,Data Scientist,11/18,09/15,N/A,03/15,06/17
+743,Providence University,3.15,Bachelor's,Chicago,M,0,0,0,3,Data Scientist,02/16,12/11,Data Scientist,09/18,04/13,ML Engineer,08/16,06/15
+744,Providence State University,2.62,Bachelor's,New York,F,0,1,0,0,Senior SWE,01/12,11/19,Senior SWE,06/13,02/15,ML Engineer,04/13,12/18
+745,Providence University,3.2,Bachelor's,Providence,F,0,1,0,0,Data Scientist,07/15,11/10,ML Engineer,03/17,03/11,N/A,11/10,01/16
+746,Providence University,3.44,Bachelor's,Boston,F,0,0,1,0,Data Scientist,07/16,07/19,Data Scientist,12/19,09/15,Data Scientist,08/13,05/13
+747,Providence Tech Institute,2.57,PhD,Boston,F,0,0,0,4,ML Engineer,01/10,11/16,Junior SWE,03/16,12/14,Lawyer,11/16,12/14
+748,Providence State University,3.8,Bachelor's,Los Angeles,F,0,0,1,0,ML Engineer,05/19,11/10,Junior SWE,01/11,02/17,Data Scientist,08/17,08/11
+749,Providence Tech Institute,2.95,Master's,New York,M,0,0,0,0,Research Assistant,08/14,01/18,Lawyer,07/18,07/17,Junior SWE,01/10,06/18
+750,Providence State University,3.01,PhD,New York,F,1,0,0,3,Lawyer,03/11,06/12,Junior SWE,05/14,10/12,Data Scientist,06/18,03/17
+751,Providence City College,2.75,Bachelor's,Providence,M,0,0,0,0,Junior SWE,12/19,02/11,Senior SWE,04/19,11/12,N/A,12/11,09/19
+752,Providence University,3.83,Master's,Providence,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+753,Providence School,3.02,Bachelor's,Boston,F,0,0,0,1,Lawyer,03/16,11/17,Lawyer,07/13,01/15,Research Assistant,11/13,10/14
+754,Providence Tech Institute,2.95,PhD,Chicago,N/A,0,0,0,0,Data Scientist,05/15,07/15,Senior SWE,12/11,11/14,Data Scientist,07/12,06/18
+755,State Providence College,3.58,Master's,Providence,F,0,0,0,2,Data Scientist,11/16,11/18,ML Engineer,12/18,02/10,N/A,03/15,03/19
+756,Providence City College,2.97,PhD,Providence,F,0,0,0,1,Research Assistant,10/10,01/12,Data Scientist,11/11,11/11,ML Engineer,03/16,08/17
+757,State Providence College,3.19,Bachelor's,Miami,M,0,1,0,0,Junior SWE,12/15,01/12,Research Assistant,01/18,09/11,Research Assistant,01/11,04/14
+758,Providence State University,4.0,Master's,Los Angeles,M,0,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+759,Providence State University,3.24,Master's,Los Angeles,F,0,1,0,0,Senior SWE,01/16,10/19,Lawyer,07/11,07/17,Data Scientist,08/15,02/14
+760,State Providence College,3.19,Bachelor's,Miami,N/A,0,1,0,1,Lawyer,07/10,06/11,Data Scientist,03/13,06/11,ML Engineer,01/12,04/12
+761,Providence School,3.7,Bachelor's,New York,F,0,0,0,3,ML Engineer,06/19,08/13,Junior SWE,09/11,10/12,Junior SWE,04/15,02/18
+762,Providence University,2.56,PhD,Boston,M,0,0,0,0,Lawyer,10/14,10/14,Data Scientist,11/13,04/18,Research Assistant,06/13,02/19
+763,Providence City College,3.06,Bachelor's,Boston,F,0,1,0,0,Research Assistant,12/10,06/14,Lawyer,10/10,02/19,Data Scientist,08/18,06/15
+764,Providence Tech Institute,3.55,Bachelor's,Los Angeles,F,1,0,0,1,Junior SWE,08/14,10/12,Research Assistant,04/19,06/18,Lawyer,10/13,07/15
+765,Providence School,3.87,PhD,Providence,F,0,0,0,0,Research Assistant,11/11,02/11,Lawyer,11/14,03/12,Data Scientist,05/11,01/13
+766,Providence City College,3.47,PhD,Providence,N/A,0,0,0,3,Lawyer,07/18,01/19,Research Assistant,09/17,03/14,N/A,06/10,11/17
+767,Providence Tech Institute,3.29,PhD,Boston,M,0,0,0,0,Lawyer,09/18,08/13,Research Assistant,10/19,04/12,Junior SWE,04/17,04/15
+768,Providence City College,3.19,Bachelor's,Boston,F,1,0,0,0,ML Engineer,04/15,03/12,Lawyer,05/13,07/16,Data Scientist,12/12,08/16
+769,Providence Tech Institute,3.22,Master's,New York,M,1,0,0,3,Data Scientist,04/18,04/15,Lawyer,03/15,05/17,ML Engineer,07/17,05/12
+770,Providence University,3.21,PhD,Miami,F,0,0,0,1,Research Assistant,06/17,11/17,Research Assistant,11/12,11/16,Senior SWE,01/16,01/19
+771,Providence University,3.91,Bachelor's,Chicago,F,0,1,0,3,Data Scientist,04/15,07/13,Data Scientist,04/11,05/11,Lawyer,07/16,08/14
+772,Providence Tech Institute,3.72,Bachelor's,Los Angeles,M,0,1,0,0,Lawyer,04/13,02/10,Lawyer,03/18,01/18,Junior SWE,09/14,07/10
+773,Providence University,2.99,Master's,Miami,F,0,0,0,4,Lawyer,02/16,06/14,Junior SWE,10/12,01/10,Lawyer,06/11,08/13
+774,Providence University,2.59,Master's,Los Angeles,M,0,0,0,4,Research Assistant,05/17,08/12,Research Assistant,10/12,03/12,Data Scientist,01/15,01/19
+775,Providence School,3.53,PhD,Chicago,M,0,1,0,1,Junior SWE,10/17,01/13,Lawyer,05/18,11/14,ML Engineer,05/17,11/14
+776,Providence Tech Institute,3.59,PhD,Chicago,M,0,0,0,2,Research Assistant,11/18,02/18,Research Assistant,08/13,02/16,Senior SWE,03/14,06/13
+777,State Providence College,3.66,PhD,Miami,M,0,0,0,0,Senior SWE,05/18,10/12,ML Engineer,01/17,03/13,Senior SWE,11/19,06/18
+778,Providence School,2.85,Bachelor's,Providence,F,1,0,0,0,Lawyer,10/18,10/17,Research Assistant,06/16,06/14,ML Engineer,06/13,08/19
+779,Providence University,3.46,Master's,Boston,M,0,0,0,0,Lawyer,09/12,09/12,Lawyer,06/10,02/16,Data Scientist,06/16,03/16
+780,State Providence College,3.46,Master's,New York,F,0,0,0,0,Data Scientist,03/14,12/11,Research Assistant,09/11,12/17,ML Engineer,11/15,06/11
+781,Providence School,2.67,Master's,New York,F,0,0,0,0,Senior SWE,02/15,09/12,Senior SWE,10/16,06/14,Lawyer,05/12,09/13
+782,Providence School,3.66,Bachelor's,New York,N/A,0,0,1,0,Junior SWE,12/18,02/12,Junior SWE,11/19,01/17,Lawyer,02/10,10/14
+783,Providence City College,3.39,Master's,Boston,F,0,0,0,3,Lawyer,04/18,05/13,ML Engineer,11/15,12/15,Data Scientist,03/13,02/12
+784,Providence University,3.25,Master's,Chicago,F,1,1,0,3,Data Scientist,08/19,04/18,Senior SWE,07/18,01/16,ML Engineer,04/10,01/11
+785,Providence Tech Institute,2.56,Master's,Providence,M,0,0,0,0,ML Engineer,11/18,05/13,Research Assistant,08/14,06/19,ML Engineer,08/10,12/12
+786,Providence State University,3.19,Master's,Providence,M,0,0,0,4,Research Assistant,09/19,11/14,Junior SWE,06/18,12/12,Research Assistant,12/15,11/18
+787,Providence State University,3.78,PhD,Chicago,M,1,0,0,3,ML Engineer,03/10,06/10,Lawyer,01/12,06/11,Junior SWE,03/17,06/15
+788,State Providence College,3.06,Bachelor's,Boston,F,0,1,0,0,Senior SWE,12/17,09/14,Lawyer,11/16,05/10,Senior SWE,04/12,03/19
+789,Providence State University,3.97,Master's,Los Angeles,M,0,0,0,0,Junior SWE,11/12,05/11,Lawyer,08/19,10/13,Junior SWE,02/18,09/12
+790,Providence City College,3.68,Bachelor's,Chicago,M,0,0,1,0,Research Assistant,06/11,04/17,Lawyer,11/17,11/19,Data Scientist,07/14,04/12
+791,Providence Tech Institute,3.74,Bachelor's,Providence,F,0,0,0,0,Research Assistant,06/12,04/11,Junior SWE,04/14,02/17,Senior SWE,04/10,02/17
+792,Providence Tech Institute,3.38,Master's,Miami,M,0,1,0,0,Data Scientist,09/14,08/13,Data Scientist,03/14,06/16,Data Scientist,12/11,10/13
+793,State Providence College,2.92,PhD,Chicago,F,0,1,0,0,ML Engineer,07/11,12/11,Research Assistant,10/14,12/17,ML Engineer,08/10,11/11
+794,Providence University,3.1,Bachelor's,Boston,M,0,0,N/A,1,ML Engineer,04/16,09/15,Research Assistant,02/15,04/19,Junior SWE,05/15,11/11
+795,Providence City College,3.43,Master's,Chicago,N/A,0,1,0,3,Lawyer,10/12,04/17,Senior SWE,11/19,08/12,N/A,08/16,05/18
+796,Providence University,3.83,PhD,Miami,F,0,0,0,3,Junior SWE,04/10,10/19,Lawyer,04/17,04/16,Data Scientist,07/12,08/13
+797,State Providence College,3.59,Master's,Boston,F,0,0,0,0,ML Engineer,12/11,06/17,Lawyer,12/17,09/15,Research Assistant,12/11,03/13
+798,Providence State University,3.04,PhD,New York,M,0,0,0,1,Junior SWE,11/15,12/16,Data Scientist,11/17,08/19,Research Assistant,01/15,05/14
+799,Providence State University,2.89,Bachelor's,Los Angeles,F,0,1,0,0,ML Engineer,04/19,08/17,Research Assistant,12/13,08/17,Junior SWE,02/12,04/19
+800,State Providence College,3.45,Bachelor's,Providence,M,0,0,1,1,ML Engineer,09/16,08/11,Junior SWE,05/12,04/12,Research Assistant,04/16,11/17
+801,Providence School,2.62,Bachelor's,Providence,F,0,1,0,2,ML Engineer,11/13,09/17,Data Scientist,04/14,09/17,ML Engineer,12/18,11/11
+802,State Providence College,3.06,Bachelor's,Providence,M,1,0,0,0,Senior SWE,07/18,02/18,Lawyer,02/18,06/19,N/A,03/15,05/14
+803,Providence University,2.88,PhD,New York,F,0,0,0,1,Junior SWE,06/19,03/14,Research Assistant,09/19,02/18,Data Scientist,04/14,12/15
+804,Providence State University,3.81,PhD,Chicago,F,0,0,0,0,Senior SWE,12/11,06/14,Lawyer,08/15,05/11,Research Assistant,09/13,11/17
+805,Providence School,3.48,Master's,Providence,M,0,0,0,0,Data Scientist,04/11,04/12,Data Scientist,08/13,06/14,ML Engineer,06/11,09/16
+806,Providence School,2.68,PhD,Los Angeles,F,0,1,0,0,Data Scientist,01/12,08/14,Senior SWE,07/13,02/11,Research Assistant,08/14,02/18
+807,Providence State University,3.27,Master's,Chicago,M,0,0,0,1,Lawyer,11/16,06/17,Junior SWE,06/19,04/13,Data Scientist,07/16,01/19
+808,Providence School,3.68,PhD,Los Angeles,F,0,0,1,0,Lawyer,02/12,03/19,ML Engineer,05/13,08/16,N/A,12/12,11/11
+809,Providence School,2.66,Bachelor's,Boston,F,0,0,0,0,Senior SWE,09/12,08/12,Data Scientist,04/12,01/17,ML Engineer,06/17,01/14
+810,State Providence College,3.36,PhD,Los Angeles,F,0,0,0,1,Lawyer,06/16,09/11,Junior SWE,09/11,07/17,Research Assistant,02/13,07/18
+811,State Providence College,3.64,Master's,Providence,M,0,0,0,4,Junior SWE,12/18,01/15,Research Assistant,02/10,02/11,Senior SWE,06/14,05/13
+812,Providence Tech Institute,2.81,PhD,Miami,F,0,0,0,1,Senior SWE,03/17,10/16,Data Scientist,03/19,12/18,Research Assistant,02/16,03/14
+813,Providence State University,3.89,PhD,Los Angeles,F,0,0,0,2,Senior SWE,11/17,04/16,Junior SWE,06/14,02/10,Senior SWE,12/11,05/17
+814,Providence Tech Institute,3.33,Master's,Chicago,M,1,0,0,0,Senior SWE,07/11,11/12,Senior SWE,02/17,07/10,N/A,09/11,04/12
+815,State Providence College,3.45,PhD,Los Angeles,M,1,0,0,0,ML Engineer,06/12,10/19,Senior SWE,04/11,11/16,Research Assistant,11/15,03/11
+816,Providence University,3.03,PhD,New York,M,0,0,0,0,Senior SWE,07/14,10/11,Junior SWE,02/13,10/11,N/A,09/13,09/11
+817,State Providence College,3.66,Master's,Los Angeles,M,0,1,0,0,Lawyer,03/19,09/19,Junior SWE,08/13,06/11,Research Assistant,06/10,06/10
+818,Providence Tech Institute,3.4,Master's,New York,M,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+819,Providence City College,3.88,Bachelor's,New York,F,0,0,0,0,Data Scientist,12/15,09/17,Data Scientist,09/16,09/17,Data Scientist,10/13,09/12
+820,Providence School,3.23,PhD,New York,M,0,0,0,2,ML Engineer,02/17,07/11,Lawyer,05/11,04/17,Senior SWE,06/14,09/11
+821,Providence State University,3.41,PhD,Los Angeles,M,0,0,1,1,ML Engineer,03/12,06/11,ML Engineer,04/14,08/10,Data Scientist,09/12,01/17
+822,Providence University,3.36,Bachelor's,Los Angeles,F,0,1,0,1,Research Assistant,10/17,08/14,Research Assistant,07/17,03/18,Junior SWE,09/11,02/16
+823,State Providence College,3.37,PhD,Miami,M,0,1,1,0,Lawyer,02/18,06/11,Data Scientist,06/10,03/18,Research Assistant,04/15,08/18
+824,Providence University,3.57,Master's,Miami,M,1,0,0,3,Lawyer,06/15,04/15,Senior SWE,04/10,07/13,Research Assistant,09/11,08/15
+825,Providence School,2.66,Master's,New York,F,0,0,N/A,4,Data Scientist,05/16,08/13,Senior SWE,08/15,04/18,N/A,02/14,09/10
+826,Providence University,3.4,Bachelor's,Chicago,F,0,0,0,4,Senior SWE,02/16,01/15,Junior SWE,03/17,02/13,Lawyer,09/10,10/17
+827,Providence University,3.13,PhD,Providence,M,0,0,0,0,Lawyer,05/17,11/13,Senior SWE,02/17,02/16,Lawyer,01/15,09/19
+828,Providence University,3.18,Master's,Miami,M,0,0,0,0,Senior SWE,01/18,01/14,Junior SWE,05/14,07/14,Senior SWE,12/19,04/12
+829,Providence Tech Institute,3.15,Bachelor's,Boston,M,0,0,0,0,Lawyer,05/13,08/16,Senior SWE,03/14,02/14,Junior SWE,08/19,10/17
+830,State Providence College,2.67,Bachelor's,Los Angeles,F,0,1,0,1,Lawyer,03/12,12/18,Data Scientist,04/17,01/14,N/A,06/12,03/17
+831,Providence City College,2.52,Master's,Los Angeles,F,0,0,1,1,ML Engineer,09/17,11/14,Junior SWE,09/15,10/18,Lawyer,02/14,04/17
+832,Providence State University,2.66,Master's,Chicago,F,0,0,0,3,ML Engineer,09/14,08/14,Lawyer,12/12,12/17,ML Engineer,04/12,02/16
+833,Providence Tech Institute,3.15,Master's,Miami,F,0,0,0,1,ML Engineer,08/19,11/16,Lawyer,03/10,12/12,Junior SWE,04/19,02/13
+834,Providence Tech Institute,3.07,Bachelor's,Boston,M,0,0,0,0,Research Assistant,07/17,01/14,Research Assistant,08/14,06/12,Junior SWE,01/17,11/16
+835,State Providence College,2.71,PhD,Los Angeles,F,0,0,0,0,Research Assistant,03/13,08/19,ML Engineer,05/18,07/16,N/A,02/16,10/18
+836,Providence State University,3.59,Bachelor's,Providence,M,0,0,0,0,Research Assistant,04/11,09/10,Research Assistant,01/19,04/11,Senior SWE,11/15,01/18
+837,Providence University,3.57,PhD,Boston,F,0,0,0,4,Lawyer,05/14,09/12,Data Scientist,12/10,06/18,N/A,11/11,01/12
+838,Providence State University,3.87,Bachelor's,Los Angeles,F,0,1,0,1,Senior SWE,11/18,08/14,Research Assistant,11/11,03/17,Lawyer,07/14,09/11
+839,State Providence College,3.77,Bachelor's,Los Angeles,F,0,0,0,0,Lawyer,09/17,05/16,Data Scientist,11/14,07/16,ML Engineer,06/18,08/11
+840,Providence University,3.74,PhD,Chicago,F,0,0,0,0,Research Assistant,11/12,03/16,Lawyer,12/19,10/15,Data Scientist,01/12,04/11
+841,Providence Tech Institute,3.7,PhD,Providence,M,0,1,0,1,Lawyer,10/13,01/18,Junior SWE,01/15,11/15,Data Scientist,03/11,02/10
+842,Providence School,3.82,Master's,Chicago,M,0,0,0,2,ML Engineer,08/16,05/18,Lawyer,04/11,07/16,Research Assistant,07/17,11/13
+843,Providence Tech Institute,3.27,Bachelor's,Chicago,M,0,1,0,1,Senior SWE,03/11,06/12,Research Assistant,02/14,12/11,N/A,03/10,12/12
+844,Providence State University,2.62,Master's,Miami,F,0,0,1,2,Lawyer,03/12,07/18,Research Assistant,12/12,07/15,Senior SWE,07/18,01/13
+845,Providence State University,3.35,Bachelor's,Boston,M,1,0,0,0,Senior SWE,01/18,10/13,Senior SWE,12/15,05/14,Junior SWE,06/11,11/10
+846,Providence Tech Institute,3.77,Master's,New York,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+847,Providence School,2.64,Bachelor's,Miami,F,0,0,0,1,Junior SWE,09/12,11/11,ML Engineer,03/15,12/13,Data Scientist,09/15,07/10
+848,Providence State University,3.73,Master's,Providence,M,0,0,0,0,Research Assistant,04/16,04/17,Research Assistant,09/17,06/16,Data Scientist,05/17,12/16
+849,Providence Tech Institute,2.71,Master's,Chicago,F,0,0,0,3,Data Scientist,06/16,12/17,Research Assistant,04/17,09/11,Senior SWE,07/16,05/13
+850,Providence State University,2.54,PhD,Miami,M,0,0,0,1,Lawyer,10/10,05/19,ML Engineer,10/14,09/10,Research Assistant,07/16,07/10
+851,Providence Tech Institute,3.55,PhD,Providence,M,0,0,0,3,Senior SWE,06/13,06/18,Data Scientist,04/14,08/14,Junior SWE,04/11,05/14
+852,Providence City College,3.47,PhD,Boston,M,0,0,0,0,Research Assistant,01/13,04/10,Research Assistant,12/19,05/13,Data Scientist,06/18,10/19
+853,Providence City College,3.82,PhD,Providence,M,0,0,0,0,ML Engineer,12/10,08/13,ML Engineer,10/12,04/19,ML Engineer,12/11,03/16
+854,Providence State University,3.49,Master's,Miami,N/A,0,0,0,3,Data Scientist,01/15,05/13,Lawyer,07/13,07/13,Data Scientist,01/13,06/19
+855,Providence School,2.9,Master's,Los Angeles,F,0,0,0,2,Data Scientist,03/19,10/13,ML Engineer,04/18,12/10,Senior SWE,06/16,03/15
+856,Providence State University,3.88,Bachelor's,Los Angeles,M,0,1,0,1,Junior SWE,01/17,03/12,Senior SWE,07/10,07/19,N/A,05/19,12/14
+857,State Providence College,3.85,Master's,New York,M,1,0,0,0,Junior SWE,04/18,11/10,Junior SWE,06/16,12/11,Lawyer,11/17,05/13
+858,Providence School,3.91,PhD,Boston,F,0,0,0,1,Lawyer,11/15,01/17,ML Engineer,11/11,08/13,N/A,07/12,07/17
+859,Providence State University,3.61,Master's,Boston,F,0,0,0,0,Data Scientist,04/16,06/16,ML Engineer,11/18,09/18,Data Scientist,10/18,09/12
+860,Providence State University,3.8,PhD,Providence,M,0,0,0,0,Senior SWE,08/11,10/16,Senior SWE,10/19,08/11,Research Assistant,08/13,08/10
+861,State Providence College,2.86,PhD,Boston,F,0,1,0,0,ML Engineer,10/12,04/17,Research Assistant,12/14,11/12,N/A,09/11,12/15
+862,Providence School,3.38,Master's,Chicago,F,0,1,0,3,Data Scientist,11/17,08/11,Senior SWE,10/15,11/12,Research Assistant,10/11,01/10
+863,Providence City College,2.9,Bachelor's,Chicago,F,0,0,0,4,Research Assistant,06/10,09/18,Senior SWE,05/15,02/18,Senior SWE,09/13,01/15
+864,State Providence College,2.99,PhD,Chicago,M,0,0,0,0,ML Engineer,01/19,06/17,Data Scientist,05/18,08/17,Research Assistant,01/17,08/12
+865,Providence City College,3.74,PhD,Chicago,N/A,0,0,0,0,Research Assistant,06/13,07/12,Data Scientist,12/18,01/14,N/A,09/12,11/17
+866,Providence Tech Institute,3.57,Master's,Boston,F,0,0,0,3,Lawyer,04/10,08/19,Research Assistant,06/11,05/10,Data Scientist,01/18,03/10
+867,State Providence College,3.89,Bachelor's,Boston,M,0,0,0,0,Junior SWE,04/11,08/16,Research Assistant,04/18,12/13,Junior SWE,04/18,01/17
+868,Providence Tech Institute,3.67,PhD,Providence,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+869,Providence School,2.94,Bachelor's,Los Angeles,F,0,0,0,0,ML Engineer,10/17,12/13,Senior SWE,11/18,10/16,Lawyer,01/15,08/13
+870,Providence University,3.82,Master's,Los Angeles,F,0,1,0,0,Research Assistant,08/12,10/18,Lawyer,07/17,07/14,Data Scientist,08/16,06/18
+871,Providence Tech Institute,2.61,Bachelor's,Providence,M,0,0,0,1,Senior SWE,04/12,07/18,Lawyer,04/12,01/16,Data Scientist,04/19,02/11
+872,Providence State University,2.62,PhD,Boston,N/A,0,0,0,0,Senior SWE,07/15,07/11,Senior SWE,07/16,10/15,Junior SWE,10/17,02/14
+873,Providence State University,2.91,Bachelor's,Boston,N/A,0,1,N/A,0,Research Assistant,12/13,11/15,ML Engineer,07/10,11/15,Research Assistant,04/11,12/11
+874,Providence City College,3.71,Bachelor's,Providence,M,0,0,0,0,Lawyer,11/14,04/14,ML Engineer,01/10,03/19,Senior SWE,11/10,12/17
+875,State Providence College,3.89,Master's,Boston,M,0,0,0,0,Lawyer,06/19,04/11,ML Engineer,10/12,01/10,Senior SWE,11/19,08/16
+876,State Providence College,3.47,Master's,Miami,M,1,0,0,0,Senior SWE,07/15,12/11,Junior SWE,04/14,10/17,Data Scientist,09/14,06/19
+877,Providence State University,3.89,Master's,Boston,M,1,0,0,3,Research Assistant,07/17,10/15,Data Scientist,08/15,10/11,Research Assistant,12/12,05/16
+878,Providence University,3.4,Bachelor's,Boston,F,0,0,0,1,Lawyer,12/19,08/18,Research Assistant,08/12,01/18,Research Assistant,09/19,05/14
+879,Providence School,3.9,Master's,Providence,M,0,1,0,0,ML Engineer,03/14,08/16,Lawyer,07/13,12/12,Data Scientist,03/19,12/11
+880,Providence City College,3.14,Master's,Los Angeles,F,0,1,0,1,ML Engineer,05/13,04/18,Lawyer,02/19,05/19,N/A,01/13,09/10
+881,State Providence College,3.96,Master's,Boston,F,0,0,0,0,Research Assistant,09/17,03/13,Junior SWE,08/11,09/19,Lawyer,06/17,05/19
+882,Providence School,2.82,PhD,Miami,M,0,0,0,1,Research Assistant,01/19,03/11,Senior SWE,09/10,03/15,Data Scientist,01/13,08/16
+883,Providence City College,2.85,PhD,Miami,F,0,0,0,0,Data Scientist,01/11,08/18,Junior SWE,10/15,05/10,Senior SWE,12/10,11/18
+884,Providence Tech Institute,2.87,PhD,Miami,F,0,0,0,0,Junior SWE,09/13,06/19,Senior SWE,10/14,11/13,Senior SWE,10/13,08/13
+885,Providence University,2.75,Master's,Miami,F,0,0,1,3,Senior SWE,04/15,04/10,ML Engineer,08/19,07/17,Lawyer,08/13,01/19
+886,State Providence College,3.26,PhD,Chicago,M,0,0,1,1,Research Assistant,03/19,08/14,Lawyer,07/19,02/14,Data Scientist,08/15,04/13
+887,Providence State University,3.31,Bachelor's,Los Angeles,F,0,1,0,3,ML Engineer,04/14,02/10,Senior SWE,05/13,08/14,ML Engineer,03/17,05/17
+888,Providence City College,3.67,Master's,Chicago,F,0,0,0,0,Data Scientist,03/16,06/16,Junior SWE,09/11,01/19,Research Assistant,01/18,03/11
+889,Providence University,2.96,Bachelor's,Providence,M,0,0,0,0,Research Assistant,08/10,10/11,Data Scientist,08/18,12/16,Research Assistant,08/19,06/12
+890,Providence School,3.87,Bachelor's,Boston,M,0,0,1,1,Senior SWE,12/18,06/15,Senior SWE,08/16,02/18,Junior SWE,01/13,06/13
+891,Providence Tech Institute,3.75,Bachelor's,Boston,M,0,0,0,3,Research Assistant,01/13,08/11,Lawyer,05/15,12/12,Research Assistant,11/11,01/11
+892,Providence City College,3.62,Bachelor's,Chicago,F,0,0,0,0,Data Scientist,05/12,04/10,Lawyer,08/13,01/17,ML Engineer,12/17,12/14
+893,Providence State University,3.97,Bachelor's,Los Angeles,F,0,0,0,4,Senior SWE,10/10,08/19,Research Assistant,12/12,03/11,Senior SWE,11/18,12/18
+894,Providence State University,2.54,Bachelor's,New York,M,0,0,0,1,Lawyer,11/19,02/18,Lawyer,08/18,10/16,Data Scientist,07/11,09/11
+895,Providence Tech Institute,3.98,Master's,New York,M,0,0,0,0,Junior SWE,11/19,10/16,Data Scientist,04/19,09/19,Research Assistant,02/14,06/18
+896,Providence School,2.85,Master's,Los Angeles,M,0,0,0,4,Research Assistant,11/13,06/19,Data Scientist,06/11,01/14,Lawyer,12/16,07/16
+897,State Providence College,2.56,Bachelor's,New York,M,0,0,0,0,Senior SWE,03/13,12/13,ML Engineer,08/13,02/17,Data Scientist,07/10,01/10
+898,Providence University,3.17,Master's,Los Angeles,F,1,0,0,0,ML Engineer,11/15,07/14,ML Engineer,08/18,03/13,N/A,03/19,10/14
+899,Providence School,3.53,Bachelor's,Chicago,N/A,0,0,0,0,Lawyer,12/15,03/19,Data Scientist,09/10,06/19,Lawyer,06/19,12/19
+900,State Providence College,2.94,Master's,Providence,M,0,1,0,3,Research Assistant,06/18,05/19,Research Assistant,03/19,10/15,N/A,08/12,04/11
+901,Providence Tech Institute,3.17,Master's,Boston,N/A,0,1,1,4,Data Scientist,06/17,12/16,ML Engineer,01/17,01/19,Research Assistant,11/15,05/12
+902,Providence School,2.86,Master's,Chicago,M,0,1,0,0,Senior SWE,02/10,06/17,Lawyer,09/10,04/11,Lawyer,04/13,03/17
+903,Providence University,2.5,Bachelor's,Chicago,F,0,0,0,3,Lawyer,04/18,11/15,Junior SWE,11/19,06/14,Lawyer,06/10,05/19
+904,Providence State University,3.84,Bachelor's,New York,M,0,0,0,0,Research Assistant,03/18,06/14,Data Scientist,04/16,02/19,Research Assistant,08/12,11/16
+905,Providence University,3.04,Master's,Los Angeles,M,0,0,0,2,Senior SWE,11/10,11/16,ML Engineer,05/18,08/17,N/A,09/10,11/12
+906,Providence School,2.72,PhD,Chicago,F,1,0,0,1,Lawyer,06/19,12/11,Research Assistant,04/17,06/12,N/A,08/13,05/19
+907,Providence City College,3.08,Bachelor's,Chicago,F,0,0,0,0,Data Scientist,12/11,11/10,Senior SWE,09/15,06/18,Senior SWE,01/14,09/14
+908,Providence School,2.52,Bachelor's,Miami,F,0,0,0,0,Senior SWE,05/12,04/11,Data Scientist,10/14,10/14,Data Scientist,02/12,04/19
+909,State Providence College,2.62,Bachelor's,Los Angeles,F,0,0,0,0,ML Engineer,05/14,05/15,Junior SWE,05/16,03/19,Lawyer,07/17,03/12
+910,Providence City College,3.34,Bachelor's,Providence,F,0,0,0,3,Data Scientist,03/17,04/18,Data Scientist,11/12,02/16,Senior SWE,10/16,12/14
+911,Providence University,2.84,Bachelor's,Boston,N/A,0,0,1,1,Lawyer,05/10,08/17,Research Assistant,12/12,02/16,Research Assistant,04/14,02/18
+912,Providence School,3.48,Master's,Providence,F,0,1,0,3,ML Engineer,12/11,01/11,ML Engineer,11/19,07/15,Data Scientist,04/17,11/18
+913,Providence University,3.18,Master's,Los Angeles,M,0,0,0,3,Senior SWE,06/16,03/16,Data Scientist,06/17,05/13,Data Scientist,11/12,04/19
+914,Providence School,2.61,PhD,Providence,F,1,0,0,1,ML Engineer,09/16,10/19,Senior SWE,02/15,03/19,Research Assistant,04/17,10/14
+915,State Providence College,3.29,Master's,Chicago,M,0,0,0,3,Data Scientist,03/13,06/10,Senior SWE,01/14,06/11,Senior SWE,08/11,07/10
+916,Providence State University,3.45,Bachelor's,Providence,M,0,1,0,0,Senior SWE,08/13,10/17,Research Assistant,02/14,02/17,Junior SWE,07/13,04/16
+917,Providence School,3.34,Bachelor's,Miami,M,0,1,1,0,Senior SWE,05/15,04/14,Senior SWE,11/17,03/15,Senior SWE,05/14,12/13
+918,State Providence College,2.88,Bachelor's,Los Angeles,N/A,0,0,0,0,Research Assistant,12/19,10/14,Research Assistant,12/18,05/12,N/A,07/19,04/13
+919,Providence School,2.54,PhD,Chicago,M,0,0,N/A,3,ML Engineer,12/10,05/18,Lawyer,05/14,12/15,Senior SWE,12/18,04/19
+920,Providence City College,3.13,Master's,Providence,N/A,0,1,0,0,Senior SWE,06/18,10/12,Lawyer,09/11,12/14,ML Engineer,06/14,10/10
+921,Providence University,3.49,Bachelor's,Chicago,N/A,0,0,0,0,Data Scientist,05/14,02/14,Junior SWE,11/11,09/19,Lawyer,08/16,10/11
+922,Providence State University,2.6,Bachelor's,Miami,M,0,0,0,1,ML Engineer,12/18,04/12,Senior SWE,11/10,12/15,Lawyer,07/11,09/12
+923,Providence State University,3.88,Master's,Chicago,N/A,0,0,0,0,Junior SWE,08/16,01/16,ML Engineer,12/19,03/10,N/A,01/16,04/16
+924,Providence Tech Institute,3.01,Master's,Boston,F,1,0,0,4,Research Assistant,12/12,11/17,Lawyer,04/13,10/19,Senior SWE,10/19,03/15
+925,Providence Tech Institute,3.02,Bachelor's,New York,N/A,0,0,0,0,ML Engineer,03/10,10/15,ML Engineer,07/10,10/17,Lawyer,09/16,08/17
+926,Providence Tech Institute,3.0,PhD,New York,F,0,1,1,1,Junior SWE,04/14,12/14,Lawyer,11/19,10/10,Senior SWE,02/16,09/11
+927,Providence University,3.85,Bachelor's,Miami,F,0,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+928,Providence University,3.92,PhD,Miami,F,0,0,0,0,Junior SWE,09/15,10/15,Research Assistant,04/14,09/14,Senior SWE,12/13,02/13
+929,Providence City College,3.84,Bachelor's,Los Angeles,M,0,1,1,0,Lawyer,08/12,04/18,Lawyer,12/13,11/15,Data Scientist,08/18,01/14
+930,Providence University,3.68,Master's,Los Angeles,N/A,0,0,0,3,Lawyer,05/11,08/11,Data Scientist,03/14,06/18,Junior SWE,10/16,07/16
+931,Providence Tech Institute,2.89,PhD,Los Angeles,F,0,1,0,3,ML Engineer,12/15,04/13,Lawyer,11/16,11/19,N/A,11/10,08/12
+932,Providence School,3.61,Master's,Boston,M,0,1,0,0,Lawyer,07/15,12/17,ML Engineer,09/11,07/18,Data Scientist,12/19,10/15
+933,Providence School,2.94,Master's,Chicago,M,0,1,1,4,Lawyer,01/18,02/15,Lawyer,10/17,07/11,Research Assistant,10/18,09/12
+934,Providence State University,3.06,PhD,Boston,F,0,0,0,0,Research Assistant,07/11,03/19,ML Engineer,12/19,02/11,N/A,10/19,11/16
+935,Providence University,2.72,Master's,Providence,M,0,0,0,0,Junior SWE,07/14,05/19,Junior SWE,07/10,02/14,Junior SWE,03/12,06/19
+936,Providence University,3.29,Master's,Providence,M,0,1,1,0,Senior SWE,10/18,12/17,Lawyer,02/16,09/12,N/A,08/15,02/18
+937,Providence School,3.71,Bachelor's,Los Angeles,F,0,0,0,0,Research Assistant,08/14,05/10,Lawyer,09/11,04/15,Senior SWE,09/13,06/12
+938,State Providence College,3.52,PhD,Boston,N/A,0,1,0,0,Junior SWE,12/13,02/13,Research Assistant,03/15,03/19,Senior SWE,06/19,03/12
+939,Providence Tech Institute,3.07,Master's,Boston,M,0,1,0,1,Research Assistant,05/13,05/18,Senior SWE,11/11,08/17,Lawyer,01/15,02/12
+940,State Providence College,3.5,PhD,New York,M,0,0,0,0,ML Engineer,04/11,10/10,Lawyer,01/14,12/16,Lawyer,11/12,08/14
+941,Providence State University,3.45,Bachelor's,Los Angeles,F,0,0,1,0,ML Engineer,03/10,05/18,Senior SWE,07/17,04/13,Data Scientist,02/10,03/17
+942,Providence School,3.31,Master's,Providence,F,0,0,0,4,Senior SWE,12/11,03/19,Junior SWE,03/11,12/18,Senior SWE,10/10,03/15
+943,Providence School,2.9,Bachelor's,Los Angeles,N/A,1,0,0,2,Data Scientist,11/18,06/15,Junior SWE,03/13,05/15,Data Scientist,01/19,11/14
+944,Providence State University,2.54,PhD,Los Angeles,F,0,0,0,3,Research Assistant,02/12,11/15,Senior SWE,09/14,06/17,Research Assistant,08/11,04/12
+945,Providence State University,2.56,PhD,Chicago,F,0,0,0,0,Research Assistant,03/16,03/16,Senior SWE,09/13,02/16,Junior SWE,09/19,04/10
+946,Providence University,3.93,Master's,Chicago,N/A,0,0,0,0,Data Scientist,03/12,05/15,Junior SWE,09/17,08/12,Senior SWE,11/17,03/16
+947,State Providence College,3.8,Bachelor's,Los Angeles,F,0,1,0,0,Lawyer,01/13,06/16,Research Assistant,08/14,05/19,Lawyer,11/14,09/11
+948,Providence City College,2.86,PhD,Los Angeles,M,0,0,0,3,Research Assistant,03/16,01/17,Research Assistant,05/12,08/12,ML Engineer,12/18,01/16
+949,Providence State University,2.79,PhD,Boston,M,0,0,0,3,Junior SWE,02/18,06/10,Lawyer,04/11,08/11,Senior SWE,05/18,03/19
+950,Providence City College,2.95,Bachelor's,Chicago,F,0,0,0,0,Research Assistant,09/14,04/19,Lawyer,10/17,12/12,Data Scientist,05/19,12/10
+951,Providence University,3.36,PhD,Chicago,F,0,0,0,0,Senior SWE,09/19,06/17,ML Engineer,07/10,10/17,Research Assistant,09/16,06/18
+952,Providence State University,2.53,PhD,Miami,M,0,0,N/A,4,Lawyer,12/14,05/11,Lawyer,12/14,10/12,Lawyer,07/17,01/10
+953,Providence School,3.84,Bachelor's,Los Angeles,F,0,0,0,0,ML Engineer,10/15,02/12,ML Engineer,08/17,09/12,Junior SWE,09/15,05/14
+954,Providence City College,3.66,Bachelor's,New York,F,0,1,0,0,ML Engineer,03/13,07/10,Senior SWE,09/11,06/16,Junior SWE,06/11,08/14
+955,State Providence College,3.29,Bachelor's,Miami,M,0,1,0,3,Senior SWE,05/19,12/13,Research Assistant,06/12,10/11,Junior SWE,12/16,12/10
+956,Providence University,3.8,PhD,Los Angeles,F,0,0,0,3,Data Scientist,07/15,05/15,Senior SWE,02/10,08/17,Lawyer,09/15,03/17
+957,Providence School,3.32,Master's,New York,M,0,0,0,0,ML Engineer,12/12,07/16,Data Scientist,02/11,06/12,Research Assistant,02/13,09/18
+958,State Providence College,2.63,Master's,New York,M,0,0,0,2,Lawyer,02/18,11/17,Lawyer,12/12,03/15,Data Scientist,09/18,10/15
+959,State Providence College,3.34,PhD,Chicago,M,0,0,0,1,ML Engineer,12/19,12/12,ML Engineer,06/19,05/19,Research Assistant,07/11,12/17
+960,Providence Tech Institute,3.22,PhD,Boston,F,0,0,0,3,Data Scientist,04/18,10/15,Junior SWE,08/15,11/13,N/A,03/19,07/19
+961,Providence University,3.54,Bachelor's,New York,M,0,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+962,Providence State University,3.02,PhD,Los Angeles,F,0,0,0,4,Senior SWE,07/16,06/10,Research Assistant,01/13,04/12,Lawyer,07/19,07/18
+963,Providence University,3.04,PhD,Los Angeles,F,0,0,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+964,Providence City College,3.91,Master's,Los Angeles,M,0,1,0,0,Data Scientist,09/12,11/12,Lawyer,11/18,01/16,Senior SWE,06/14,04/12
+965,State Providence College,3.88,Master's,Miami,F,0,0,N/A,3,Senior SWE,09/12,01/19,Lawyer,06/15,09/13,Lawyer,01/13,02/16
+966,Providence State University,3.85,PhD,Miami,M,0,1,0,0,ML Engineer,05/10,09/14,Data Scientist,12/16,08/16,Research Assistant,04/15,08/16
+967,Providence City College,3.12,Master's,Los Angeles,M,0,0,0,0,Research Assistant,05/10,05/11,Lawyer,06/10,08/14,Senior SWE,07/14,09/19
+968,Providence School,3.62,PhD,Boston,M,0,1,0,0,ML Engineer,07/19,08/16,Senior SWE,12/17,08/17,Data Scientist,04/19,12/16
+969,State Providence College,3.91,Bachelor's,Providence,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+970,Providence School,3.95,PhD,Providence,M,0,0,0,0,Research Assistant,11/18,10/10,Data Scientist,06/11,05/15,Research Assistant,08/17,02/17
+971,Providence Tech Institute,2.86,Master's,Chicago,M,0,1,0,0,Research Assistant,07/12,04/18,Senior SWE,07/12,05/18,ML Engineer,05/19,12/19
+972,Providence University,2.82,PhD,Miami,N/A,0,0,0,3,Research Assistant,11/13,01/19,Data Scientist,02/15,06/19,N/A,03/10,06/13
+973,Providence State University,3.25,Master's,Boston,M,0,0,1,3,Lawyer,04/12,06/11,Lawyer,05/10,05/10,Research Assistant,01/11,01/15
+974,State Providence College,3.8,PhD,Chicago,F,0,0,0,0,ML Engineer,05/10,02/16,ML Engineer,04/14,07/14,Senior SWE,04/16,12/11
+975,Providence Tech Institute,3.29,PhD,Los Angeles,F,0,0,0,0,Research Assistant,06/12,08/19,Junior SWE,05/16,12/10,ML Engineer,02/19,10/17
+976,State Providence College,3.69,Master's,Los Angeles,M,0,0,0,0,Research Assistant,05/11,05/18,Data Scientist,02/15,10/10,Data Scientist,05/10,06/16
+977,Providence University,3.21,PhD,Chicago,M,0,0,0,3,Data Scientist,05/14,04/10,ML Engineer,05/15,10/16,Senior SWE,08/16,06/17
+978,State Providence College,3.63,PhD,Los Angeles,F,1,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+979,Providence University,2.9,PhD,Boston,F,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+980,Providence State University,3.74,Bachelor's,Miami,N/A,0,1,0,3,Junior SWE,01/15,04/15,Senior SWE,03/13,11/19,Junior SWE,07/11,11/13
+981,Providence Tech Institute,3.7,Master's,Miami,N/A,0,1,0,2,Junior SWE,12/15,03/19,Data Scientist,02/18,06/15,Senior SWE,01/16,10/11
+982,Providence City College,2.84,PhD,Chicago,M,0,1,0,3,Research Assistant,08/12,02/18,Junior SWE,08/16,11/19,N/A,02/15,12/13
+983,Providence Tech Institute,3.81,Bachelor's,Chicago,F,0,0,0,3,Senior SWE,07/14,04/16,ML Engineer,06/17,12/19,ML Engineer,03/12,04/13
+984,Providence State University,2.68,Master's,Miami,M,0,0,0,1,Senior SWE,03/11,04/17,Research Assistant,01/11,08/19,Research Assistant,02/16,12/10
+985,Providence State University,3.65,Bachelor's,Providence,M,0,1,0,1,Lawyer,07/16,06/13,Lawyer,08/15,11/19,Data Scientist,01/12,04/15
+986,Providence Tech Institute,3.78,Bachelor's,Miami,M,0,0,N/A,1,Junior SWE,06/12,12/18,Senior SWE,12/12,08/16,Junior SWE,06/14,09/10
+987,Providence University,3.74,PhD,Miami,F,0,0,0,4,Data Scientist,08/18,03/12,Lawyer,10/10,08/18,Data Scientist,09/13,10/17
+988,Providence School,2.87,Bachelor's,Chicago,F,0,0,0,0,Data Scientist,04/15,09/14,ML Engineer,10/10,01/16,Lawyer,11/19,01/13
+989,Providence City College,2.62,PhD,New York,F,0,1,0,1,ML Engineer,01/13,02/13,Lawyer,10/13,09/17,Research Assistant,12/10,06/11
+990,Providence City College,2.54,Master's,Los Angeles,F,1,0,0,0,Junior SWE,08/18,04/14,Junior SWE,03/12,08/16,Lawyer,09/10,04/13
+991,Providence Tech Institute,2.54,Bachelor's,Miami,F,0,1,0,3,Lawyer,09/12,09/16,Lawyer,04/14,04/16,Data Scientist,03/12,11/12
+992,State Providence College,3.27,Bachelor's,New York,N/A,0,1,0,0,Junior SWE,01/12,06/19,ML Engineer,03/11,06/16,ML Engineer,06/14,09/19
+993,Providence State University,2.8,Bachelor's,Chicago,M,0,0,0,0,Junior SWE,09/16,04/11,Research Assistant,11/12,08/18,Lawyer,06/18,08/11
+994,State Providence College,3.81,Bachelor's,Miami,M,0,1,0,0,ML Engineer,07/19,11/13,Research Assistant,06/17,02/13,Data Scientist,02/12,01/15
+995,Providence City College,2.75,PhD,Boston,M,0,0,0,1,Lawyer,03/10,05/13,Junior SWE,02/18,09/12,Senior SWE,09/12,12/10
+996,Providence State University,3.51,PhD,Los Angeles,M,0,0,0,3,Research Assistant,06/11,03/12,Lawyer,07/17,02/19,Junior SWE,04/12,01/15
+997,State Providence College,3.88,Master's,Chicago,F,0,0,0,0,Lawyer,07/13,03/18,Junior SWE,08/15,01/15,Lawyer,05/11,11/14
+998,Providence State University,3.95,Master's,Boston,M,0,0,0,0,Junior SWE,06/14,01/14,Data Scientist,03/19,05/17,Senior SWE,02/19,09/18
+999,State Providence College,3.79,Master's,Boston,N/A,0,0,0,0,Research Assistant,07/10,02/12,Junior SWE,12/10,03/17,Lawyer,07/11,02/19
+1000,State Providence College,2.81,PhD,Chicago,F,0,1,0,3,ML Engineer,05/17,04/19,Junior SWE,10/18,11/15,Junior SWE,05/17,12/19
